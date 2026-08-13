@@ -1,0 +1,3093 @@
+{
+  "items": [
+    {
+      "description": "An annual YARA challenge started by Greg Lesnewich in 2022, inspired by #100DaysOfCode and taking place in the first 100 days of the year. The goal is to contribute daily to the YARA community through rule creation, source code contributions, or generally teaching/help your colleagues. Other key contributors include Wesley Shields and Steve Miller. For a list of all participants in the first two years of the challenge, see our Twitter List.\nRule collections from prior years of the challenge: 100 Days of YARA",
+      "items": [],
+      "title": "100 Days of YARA (#100DaysofYARA)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yara Performance Guidelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-11T09:58:46Z",
+            "owner": "Neo23x0",
+            "repo": "YARA-Performance-Guidelines",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARA-Style-Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-17T10:48:01Z",
+            "owner": "Neo23x0",
+            "repo": "YARA-Style-Guide",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YaraRules Project Official Repo",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-04-17T00:12:25Z",
+            "owner": "Yara-Rules",
+            "repo": "rules",
+            "stars": 4870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAPE Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:23:13Z",
+            "owner": "kevoreilly",
+            "repo": "CAPEv2",
+            "stars": 3418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Florian Roth Rules",
+          "description": "eyes: :gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-08-03T07:00:36Z",
+            "owner": "Neo23x0",
+            "repo": "signature-base",
+            "stars": 3001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireEye",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2024-03-05T10:19:46Z",
+            "owner": "mandiant",
+            "repo": "red_team_tool_countermeasures",
+            "stars": 2666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Didier Stevens Rules",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T13:37:13Z",
+            "owner": "DidierStevens",
+            "repo": "DidierStevensSuite",
+            "stars": 2517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESET IOCs",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-06-25T15:55:53Z",
+            "owner": "eset",
+            "repo": "malware-ioc",
+            "stars": 1975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic Security YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-08-13T03:15:41Z",
+            "owner": "elastic",
+            "repo": "protections-artifacts",
+            "stars": 1472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BinaryAlert YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T18:28:30Z",
+            "owner": "airbnb",
+            "repo": "binaryalert",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReversingLabs YARA Rules",
+          "description": "sparkles: :eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-11-03T15:00:04Z",
+            "owner": "reversinglabs",
+            "repo": "reversinglabs-yara-rules",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McAfee Advanced Threat Research Yara-Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-03-18T15:17:48Z",
+            "owner": "advanced-threat-research",
+            "repo": "Yara-Rules",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Cloud Threat Intelligence(GCTI) Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2023-12-04T21:22:06Z",
+            "owner": "chronicle",
+            "repo": "GCTI",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlienVault Labs Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-22T03:31:37Z",
+            "owner": "AlienVault-Labs",
+            "repo": "AlienVaultLabs",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NCC Group Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-12T18:25:34Z",
+            "owner": "nccgroup",
+            "repo": "Cyber-Defence",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icewater Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2019-06-01T05:05:25Z",
+            "owner": "SupportIntelligence",
+            "repo": "Icewater",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InQuest Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-11T21:54:48Z",
+            "owner": "InQuest",
+            "repo": "yara-rules",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bartblaze YARA rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-01-28T17:20:13Z",
+            "owner": "bartblaze",
+            "repo": "Yara-rules",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volexity - Threat-Intel",
+          "description": "sparkles: :gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T20:23:48Z",
+            "owner": "volexity",
+            "repo": "threat-intel",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mikesxrs YARA Rules Collection",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-04-17T00:53:51Z",
+            "owner": "mikesxrs",
+            "repo": "Open-Source-YARA-rules",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StrangeRealIntel's Daily IOCs",
+          "description": "gem: :sparkles: :eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2023-12-12T18:35:01Z",
+            "owner": "StrangerealIntel",
+            "repo": "DailyIOC",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSF Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-15T20:04:45Z",
+            "owner": "EmersonElectricCo",
+            "repo": "fsf",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ditekshen Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-11-01T06:30:17Z",
+            "owner": "ditekshen",
+            "repo": "detection",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiderLabs Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-07-29T21:08:09Z",
+            "owner": "SpiderLabs",
+            "repo": "malware-analysis",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t4d's PhishingKit-Yara-Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-07-19T23:01:29Z",
+            "owner": "t4d",
+            "repo": "PhishingKit-Yara-Rules",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rastrea2r",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-01T11:12:02Z",
+            "owner": "rastrea2r",
+            "repo": "rastrea2r",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HydraDragonAntivirus",
+          "description": "trophy:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-08-12T21:08:56Z",
+            "owner": "HydraDragonAntivirus",
+            "repo": "HydraDragonAntivirus",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sophos AI YaraML Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:15:01Z",
+            "owner": "sophos",
+            "repo": "yaraml_rules",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatHunting-Keywords-yara-rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-05-11T15:59:53Z",
+            "owner": "mthcht",
+            "repo": "ThreatHunting-Keywords-yara-rules",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malpedia Auto Generated Rules Repo",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-05-18T13:48:19Z",
+            "owner": "malpedia",
+            "repo": "signator-rules",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citizen Lab Malware Signatures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2016-11-17T19:27:09Z",
+            "owner": "citizenlab",
+            "repo": "malware-signatures",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARA-FORENSICS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2020-09-08T08:13:39Z",
+            "owner": "Xumeiquer",
+            "repo": "yara-forensics",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intezer Rules",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-02-02T17:45:23Z",
+            "owner": "intezer",
+            "repo": "yara-rules",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickSand Lite Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-23T20:04:38Z",
+            "owner": "tylabs",
+            "repo": "qs_old",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara4pentesters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-31T09:38:17Z",
+            "owner": "DiabloHorn",
+            "repo": "yara4pentesters",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telekom Security Malare Analysis Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T09:42:36Z",
+            "owner": "telekom-security",
+            "repo": "malware_analysis",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid7-Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-20T13:32:08Z",
+            "owner": "rapid7",
+            "repo": "Rapid7-Labs",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lw-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2021-03-04T00:57:41Z",
+            "owner": "Hestat",
+            "repo": "lw-yara",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoDaddy ProcFilter Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-07-28T19:42:47Z",
+            "owner": "godaddy",
+            "repo": "yara-rules",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x64dbg Signatures",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2019-05-23T08:44:55Z",
+            "owner": "x64dbg",
+            "repo": "yarasigs",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McAfee Advanced Threat Research IOCs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-08-04T14:22:36Z",
+            "owner": "advanced-threat-research",
+            "repo": "IOCs",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BinSequencer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-02T15:19:51Z",
+            "owner": "karttoon",
+            "repo": "binsequencer",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delivr.to Detections",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-08-10T23:58:46Z",
+            "owner": "delivr-to",
+            "repo": "detections",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frank Boldewin's Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2023-03-25T20:47:06Z",
+            "owner": "fboldewin",
+            "repo": "YARA-rules",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MalGamy's YARA_Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2023-01-27T16:27:29Z",
+            "owner": "MalGamy",
+            "repo": "YARA_Rules",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenable Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2022-11-29T20:48:37Z",
+            "owner": "tenable",
+            "repo": "yara-rules",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kevthehermit Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-07T22:44:16Z",
+            "owner": "kevthehermit",
+            "repo": "YaraRules",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2022-01-26T14:51:44Z",
+            "owner": "codewatchorg",
+            "repo": "Burp-Yara-Rules",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deadbits Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2023-11-20T09:46:27Z",
+            "owner": "deadbits",
+            "repo": "yara-rules",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConventionEngine Rules",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2023-03-15T13:55:28Z",
+            "owner": "stvemillertime",
+            "repo": "ConventionEngine",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anyrun rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-11-01T05:25:50Z",
+            "owner": "anyrun",
+            "repo": "YARA",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jeFF0Falltrades Rules",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-09-20T03:21:10Z",
+            "owner": "jeFF0Falltrades",
+            "repo": "YARA-Signatures",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malice.IO YARA Plugin Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2019-09-08T23:50:46Z",
+            "owner": "malice-plugins",
+            "repo": "yara",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAIDS",
+          "description": "gem: :sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-20T20:15:21Z",
+            "owner": "wrayjustin",
+            "repo": "yaids",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara-Unprotect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2020-11-19T18:23:54Z",
+            "owner": "fr0gger",
+            "repo": "Yara-Unprotect",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h3x2b Rules",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-09-09T18:46:09Z",
+            "owner": "h3x2b",
+            "repo": "yara-rules",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filescan.io Rules",
+          "description": "✨",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-07-15T10:56:06Z",
+            "owner": "filescanio",
+            "repo": "fsYara",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imp0rtp3's Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2021-11-26T09:31:56Z",
+            "owner": "imp0rtp3",
+            "repo": "yara-rules",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CDI Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-10T21:22:27Z",
+            "owner": "CyberDefenses",
+            "repo": "CDI_yara",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VectraThreatLab Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-12-09T07:23:11Z",
+            "owner": "VectraThreatLab",
+            "repo": "reyara",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Securitymagic's YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-06-26T15:27:19Z",
+            "owner": "securitymagic",
+            "repo": "yara",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyStack Stealer Fingerprints",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-06-09T12:22:08Z",
+            "owner": "cystack",
+            "repo": "stealer-fingerprints",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Public YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2019-04-29T04:03:00Z",
+            "owner": "jipegit",
+            "repo": "yara-rules-public",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f0wl yara_rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2022-03-03T11:18:35Z",
+            "owner": "f0wl",
+            "repo": "yara_rules",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TjadaNel Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2019-05-13T15:30:47Z",
+            "owner": "tjnel",
+            "repo": "yara_repo",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Operation Epic Fury Rules",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-03-16T21:07:49Z",
+            "owner": "paolocostanzo",
+            "repo": "operation-epic-fury-rules",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fidelis Rules",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Rules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MISP Threat Sharing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T11:35:58Z",
+            "owner": "MISP",
+            "repo": "MISP",
+            "stars": 6469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAPE: Config And Payload Extraction",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:23:13Z",
+            "owner": "kevoreilly",
+            "repo": "CAPEv2",
+            "stars": 3418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APKiD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-07-27T17:35:45Z",
+            "owner": "rednaga",
+            "repo": "APKiD",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yeti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:43:35Z",
+            "owner": "yeti-platform",
+            "repo": "yeti",
+            "stars": 2014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarGen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T15:02:41Z",
+            "owner": "Neo23x0",
+            "repo": "yarGen",
+            "stars": 1807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "findcrypt-yara",
+          "description": "and FindYara",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-19T11:36:18Z",
+            "owner": "polymorf",
+            "repo": "findcrypt-yara",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirBnB BinaryAlert",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T18:28:30Z",
+            "owner": "airbnb",
+            "repo": "binaryalert",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraHunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-07T16:56:26Z",
+            "owner": "deepfence",
+            "repo": "YaraHunter",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PasteHunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T06:36:10Z",
+            "owner": "kevthehermit",
+            "repo": "PasteHunter",
+            "stars": 1137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strelka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T18:32:39Z",
+            "owner": "target",
+            "repo": "strelka",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatIngestor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T15:01:24Z",
+            "owner": "pedramamini",
+            "repo": "ThreatIngestor",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laika BOSS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whitepaper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-16T13:39:29Z",
+                "owner": "lmco",
+                "repo": "laikaboss",
+                "stars": 753
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-16T13:39:29Z",
+            "owner": "lmco",
+            "repo": "laikaboss",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KLara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-24T14:46:03Z",
+            "owner": "KasperskyLab",
+            "repo": "klara",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bincapz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:21:04Z",
+            "owner": "chainguard-dev",
+            "repo": "malcontent",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITRE MultiScanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-08T14:12:14Z",
+            "owner": "mitre",
+            "repo": "multiscanner",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iocextract",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T16:04:18Z",
+            "owner": "pedramamini",
+            "repo": "iocextract",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MalConfScan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-22T05:43:15Z",
+            "owner": "JPCERTCC",
+            "repo": "MalConfScan",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustinel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:07:15Z",
+            "owner": "Karib0u",
+            "repo": "rustinel",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mquery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T10:43:46Z",
+            "owner": "CERT-Polska",
+            "repo": "mquery",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwishDbgExt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-12-11T04:24:36Z",
+            "owner": "MagnetForensics",
+            "repo": "SwishDbgExt",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoDaddy ProcFilter",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-02-15T00:44:19Z",
+            "owner": "godaddy",
+            "repo": "procfilter",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarAnalyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-19T21:18:08Z",
+            "owner": "Neo23x0",
+            "repo": "yarAnalyzer",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stoQ",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-27T19:44:32Z",
+            "owner": "PUNCH-Cyber",
+            "repo": "stoq",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-01T21:12:18Z",
+            "owner": "hillu",
+            "repo": "go-yara",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polichombr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-01-22T13:48:17Z",
+            "owner": "ANSSI-FR",
+            "repo": "polichombr",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraGenerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-02T13:49:21Z",
+            "owner": "Xen0ph0n",
+            "repo": "YaraGenerator",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yextend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-09T10:38:35Z",
+            "owner": "BayshoreNetworks",
+            "repo": "yextend",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaya",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-27T15:11:36Z",
+            "owner": "EFForg",
+            "repo": "yaya",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fnord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-12T09:34:10Z",
+            "owner": "Neo23x0",
+            "repo": "Fnord",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emerson File Scanning Framework (FSF)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-15T20:04:45Z",
+            "owner": "EmersonElectricCo",
+            "repo": "fsf",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vxsig",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-04T07:57:11Z",
+            "owner": "google",
+            "repo": "vxsig",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arya- The Reverse YARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-27T19:30:43Z",
+            "owner": "claroty",
+            "repo": "arya",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastfinder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-24T14:23:55Z",
+            "owner": "codeyourweb",
+            "repo": "fastfinder",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-18T14:27:33Z",
+            "owner": "hyuunnn",
+            "repo": "Hyara",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sysmon EDR",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-05-01T02:41:53Z",
+            "owner": "ion-storm",
+            "repo": "sysmon-edr",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkYARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-07T08:45:57Z",
+            "owner": "fox-it",
+            "repo": "mkYARA",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halogen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-05-16T21:17:53Z",
+            "owner": "target",
+            "repo": "halogen",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraGuardian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-28T14:19:53Z",
+            "owner": "PUNCH-Cyber",
+            "repo": "YaraGuardian",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plyara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-06T22:35:55Z",
+            "owner": "plyara",
+            "repo": "plyara",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spyre",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-17T19:45:46Z",
+            "owner": "spyre-project",
+            "repo": "spyre",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-signator",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-08T00:59:43Z",
+            "owner": "fxb-cocacoding",
+            "repo": "yara-signator",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yabin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-11T13:17:43Z",
+            "owner": "AlienVault-OTX",
+            "repo": "yabin",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaralyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T03:33:41Z",
+            "owner": "michelcrypt4d4mus",
+            "repo": "yaralyzer",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdStrike Feed Management System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-11-13T02:41:35Z",
+            "owner": "CrowdStrike",
+            "repo": "CrowdFMS",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaramod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T11:21:23Z",
+            "owner": "avast",
+            "repo": "yaramod",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCCS-Yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T10:02:58Z",
+            "owner": "CybercentreCanada",
+            "repo": "CCCS-Yara",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-endpoint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-03-13T22:15:23Z",
+            "owner": "Yara-Rules",
+            "repo": "yara-endpoint",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraPCAP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-07-29T20:11:40Z",
+            "owner": "kevthehermit",
+            "repo": "YaraPcap",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InQuest ThreatKB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:19:12Z",
+            "owner": "InQuest",
+            "repo": "ThreatKB",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarasafe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-02-25T13:49:46Z",
+            "owner": "lucamassarelli",
+            "repo": "yarasafe",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTCodeSimilarity-YaraGen",
+          "description": "gem: :sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-07T11:35:35Z",
+            "owner": "arieljt",
+            "repo": "VTCodeSimilarity-YaraGen",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-10T13:36:41Z",
+            "owner": "avast",
+            "repo": "yari",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-parser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-05T21:14:39Z",
+            "owner": "Northern-Lights",
+            "repo": "yara-parser",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T11:08:54Z",
+            "owner": "Hugal31",
+            "repo": "yara-rust",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoYara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-08T19:24:49Z",
+            "owner": "FutureComputing4AI",
+            "repo": "AutoYara",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factual-rules-generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-18T10:05:51Z",
+            "owner": "CIRCL",
+            "repo": "factual-rules-generator",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara_tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-12T07:41:52Z",
+            "owner": "matonis",
+            "repo": "yara_tools",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YLS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T16:58:49Z",
+            "owner": "avast",
+            "repo": "yls",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yaramanager",
+          "description": "(PyPI)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-27T17:39:10Z",
+            "owner": "3c7",
+            "repo": "yaramanager",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaYaGen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-09T15:14:11Z",
+            "owner": "jimmy-sonny",
+            "repo": "YaYaGen",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "malwatch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T15:07:34Z",
+            "owner": "defended-net",
+            "repo": "malwatch",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraZeekAlert",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-16T22:44:38Z",
+            "owner": "SCILabsMX",
+            "repo": "yaraZeekAlert",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-07-23T10:37:40Z",
+            "owner": "bartblaze",
+            "repo": "FARA",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libyara.NET",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-08T17:22:07Z",
+            "owner": "microsoft",
+            "repo": "libyara.NET",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara Python ICAP Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T09:50:37Z",
+            "owner": "RamadhanAmizudin",
+            "repo": "python-icap-yara",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraManager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-09T07:40:04Z",
+            "owner": "kevthehermit",
+            "repo": "YaraManager",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "static_file_analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2023-09-06T10:01:06Z",
+            "owner": "lprat",
+            "repo": "static_file_analysis",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yobi",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-05T09:05:54Z",
+            "owner": "imp0rtp3",
+            "repo": "Yobi",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara-Scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-06-30T23:24:40Z",
+            "owner": "PolitoInc",
+            "repo": "Yara-Scanner",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCYara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-30T14:14:11Z",
+            "owner": "bandrel",
+            "repo": "OCyara",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraSharp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-07T06:18:31Z",
+            "owner": "stellarbear",
+            "repo": "YaraSharp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara-Validator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-05T04:57:43Z",
+            "owner": "CIRCL",
+            "repo": "yara-validator",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "base64_substring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-13T13:46:08Z",
+            "owner": "DissectMalware",
+            "repo": "base64_substring",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnYara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-30T13:22:13Z",
+            "owner": "airbus-cert",
+            "repo": "dnYara",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaradbg-frontend",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-24T20:14:06Z",
+            "owner": "DissectMalware",
+            "repo": "yaradbg-frontend",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara Malware Quick menu scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-03-26T14:15:28Z",
+            "owner": "techbliss",
+            "repo": "Yara_Mailware_Quick_menu_scanner",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraGen",
+          "description": "and yara_fn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-09-02T18:10:06Z",
+            "owner": "mrexodia",
+            "repo": "YaraGen",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraStation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-01T16:59:55Z",
+            "owner": "NumLocK15",
+            "repo": "YaraStation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clara",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T05:46:19Z",
+            "owner": "abhinavbom",
+            "repo": "clara",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirusTotalTools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-02T21:24:33Z",
+            "owner": "silascutler",
+            "repo": "VirusTotalTools",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELAT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-27T20:15:06Z",
+            "owner": "reed1713",
+            "repo": "ELAT",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PwC Cyber Threat Operations rtfsig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2026-01-05T22:50:22Z",
+            "owner": "PwCUK-CTO",
+            "repo": "rtfsig",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T06:06:56Z",
+            "owner": "immortalp0ny",
+            "repo": "yarg",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fadavvi YARA collection script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-26T08:27:31Z",
+            "owner": "Fadavvi",
+            "repo": "Yara-Repo",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ida-yara-processor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-22T14:27:35Z",
+            "owner": "bnbdr",
+            "repo": "ida-yara-processor",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraMail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-05T13:04:47Z",
+            "owner": "kevthehermit",
+            "repo": "yaraMail",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yarasilly2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T18:14:56Z",
+            "owner": "YARA-Silly-Silly",
+            "repo": "yarasilly2",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaradbg-backend",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T23:16:09Z",
+            "owner": "DissectMalware",
+            "repo": "yaradbg-backend",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarascanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-07-06T23:47:32Z",
+            "owner": "jheise",
+            "repo": "yarascanner",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ida_yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-04T17:25:35Z",
+            "owner": "alexander-hanel",
+            "repo": "ida_yara",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudina Security Hawk",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-01T02:24:54Z",
+            "owner": "cloudina",
+            "repo": "hawk",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaml2yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-02-03T13:21:42Z",
+            "owner": "nccgroup",
+            "repo": "yaml2yara",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audit Node Modules With YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2021-03-24T10:29:49Z",
+            "owner": "rpgeeganage",
+            "repo": "audit-node-modules-with-yara",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExchangeFilter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-25T07:26:42Z",
+            "owner": "k-sec-tools",
+            "repo": "ExchangeFilter",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yara Scanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T13:44:01Z",
+            "owner": "ace-ecosystem",
+            "repo": "yara_scanner",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alterix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-26T08:15:00Z",
+            "owner": "mtnmunuklu",
+            "repo": "alterix",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-20T16:56:25Z",
+            "owner": "sk4la",
+            "repo": "plast",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a-ray-grass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-19T13:01:49Z",
+            "owner": "hashlookup",
+            "repo": "a-ray-grass",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-05-19T12:25:03Z",
+            "owner": "nospaceships",
+            "repo": "node-yara",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statiStrings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-24T17:20:28Z",
+            "owner": "Sh3llyR",
+            "repo": "statiStrings",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDA_scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-02T06:19:49Z",
+            "owner": "swackhamer",
+            "repo": "IDA_scripts",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "malscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-15T17:46:10Z",
+            "owner": "usualsuspect",
+            "repo": "malscan",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARA-sort",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-08-01T21:05:22Z",
+            "owner": "horsicq",
+            "repo": "YARA-sort",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara_zip_module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-21T12:23:53Z",
+            "owner": "stoerchl",
+            "repo": "yara_zip_module",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-ocaml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2019-12-10T08:20:40Z",
+            "owner": "XVilka",
+            "repo": "yara-ocaml",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-procdump-python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2017-11-02T11:51:38Z",
+            "owner": "google",
+            "repo": "yara-procdump-python",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraScanParser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-25T13:59:54Z",
+            "owner": "Sh3llyR",
+            "repo": "yaraScanParser",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIDebug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:32:20Z",
+            "owner": "anpa1200",
+            "repo": "AIDebug",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shotgunyara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-29T21:52:24Z",
+            "owner": "darienhuss",
+            "repo": "shotgunyara",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraparser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-12T20:01:06Z",
+            "owner": "BitsOfBinary",
+            "repo": "yaraparser",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decompressingyara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-24T03:56:58Z",
+            "owner": "rjzak",
+            "repo": "decompressingyara",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yara-java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java bindings for YARA (Subreption fork, maintained as of 2024, old bindings",
+              "description": ").",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-06-05T21:54:57Z",
+                "owner": "p8a",
+                "repo": "yara-java",
+                "stars": 28
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-11T11:32:16Z",
+            "owner": "subreption",
+            "repo": "yara-java",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "androguard-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-09-25T07:19:05Z",
+            "owner": "MindMac",
+            "repo": "androguard-yara",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GhidraYara",
+          "description": "A Ghidra extension providing direct integration of YARA through an analyzer, as well as rule generation from code listings and management in the Ghidra UI. Supports an extensive library of cryptographic constants, CRC tables, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-10-11T11:55:41Z",
+            "owner": "subreption",
+            "repo": "ghidra_yara",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocaml-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "OCaml",
+            "last_commit": "2024-08-08T19:13:16Z",
+            "owner": "elastic",
+            "repo": "ocaml-yara",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaraVT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-12-26T18:16:56Z",
+            "owner": "deadbits",
+            "repo": "yaraVT",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YMCA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-06T16:27:19Z",
+            "owner": "m0n4",
+            "repo": "YARA-Matches-Correspondance-Array",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "java2yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-05-20T20:55:23Z",
+            "owner": "fxb-cocacoding",
+            "repo": "java2yara",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaraFileCheckerLib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2022-02-07T10:03:47Z",
+            "owner": "k-sec-tools",
+            "repo": "YaraFileCheckerLib",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nullsec-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-27T20:20:17Z",
+            "owner": "bad-antics",
+            "repo": "nullsec-yara",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoke-Yara",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "Nextron Systems OSS and Commercial Tools (Florian Roth: @Neo23x0)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Loki",
+              "description": "IOC and YARA rule scanner implemented in Python. Open source and free.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-12T08:00:47Z",
+                "owner": "Neo23x0",
+                "repo": "Loki",
+                "stars": 3775
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Notepad++: userDefinedLanguages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T20:53:58Z",
+            "owner": "notepad-plus-plus",
+            "repo": "userDefinedLanguages",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code: vscode-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-10T14:45:50Z",
+            "owner": "infosec-intern",
+            "repo": "vscode-yara",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom: language-yara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-09-04T13:39:45Z",
+            "owner": "blacktop",
+            "repo": "language-yara",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Text: YaraSyntax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2025-11-30T05:35:40Z",
+            "owner": "nyx0",
+            "repo": "YaraSyntax",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim: vim-yara",
+          "description": ", vim-syntax-yara",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2021-02-18T18:45:14Z",
+            "owner": "yaunj",
+            "repo": "vim-yara",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs: yara-mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-07-02T01:53:12Z",
+            "owner": "binjo",
+            "repo": "yara-mode",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTK-based editors, like gedit and xed: GtkSourceView-YARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-05-12T14:35:32Z",
+            "owner": "wesinator",
+            "repo": "GtkSourceView-YARA",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Syntax Highlighters"
+    },
+    {
+      "description": "We're aggregating the Twitter handles for anyone involved with the projects on this page into a single list: awesome-yara Twitter list. Do let us know if anyone is missing.",
+      "items": [],
+      "title": "People"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HackwithGithub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-26T03:29:02Z",
+            "owner": "Hack-with-Github",
+            "repo": "Awesome-Hacking",
+            "stars": 118143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T20:05:00Z",
+            "owner": "jivoi",
+            "repo": "awesome-osint",
+            "stars": 28045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentesting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T12:15:45Z",
+            "owner": "enaqx",
+            "repo": "awesome-pentest",
+            "stars": 26874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T22:40:13Z",
+            "owner": "carpedm20",
+            "repo": "awesome-hacking",
+            "stars": 16853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Static Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T13:06:01Z",
+            "owner": "analysis-tools-dev",
+            "repo": "static-analysis",
+            "stars": 14728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-07T05:09:47Z",
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-31T10:54:05Z",
+            "owner": "hslatman",
+            "repo": "awesome-threat-intelligence",
+            "stars": 10529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honeypots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T14:15:45Z",
+            "owner": "paralax",
+            "repo": "awesome-honeypots",
+            "stars": 10517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incident-Response",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T10:58:26Z",
+            "owner": "meirwah",
+            "repo": "awesome-incident-response",
+            "stars": 9317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML for Cyber Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-19T02:14:10Z",
+            "owner": "jivoi",
+            "repo": "awesome-ml-for-cybersecurity",
+            "stars": 9268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-16T17:03:36Z",
+            "owner": "BruceDone",
+            "repo": "awesome-crawler",
+            "stars": 7274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infosec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-21T19:28:33Z",
+            "owner": "onlurking",
+            "repo": "awesome-infosec",
+            "stars": 5716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-14T21:15:16Z",
+            "owner": "cugu",
+            "repo": "awesome-forensics",
+            "stars": 5155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T12:27:34Z",
+            "owner": "0x4D31",
+            "repo": "awesome-threat-detection",
+            "stars": 4699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reversing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-19T07:30:45Z",
+            "owner": "tylerha97",
+            "repo": "awesome-reversing",
+            "stars": 4508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE PoC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-04T19:07:43Z",
+            "owner": "qazbnm456",
+            "repo": "awesome-cve-poc",
+            "stars": 3522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCAP Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-03T07:24:40Z",
+            "owner": "caesar0301",
+            "repo": "awesome-pcaptools",
+            "stars": 3413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IOCs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-08T15:09:05Z",
+            "owner": "sroberts",
+            "repo": "awesome-iocs",
+            "stars": 993
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "This list is maintained by InQuest. Feel free to let us know about anything we're missing!\nSee CONTRIBUTING.md.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:30.650Z",
+    "original_repository": "pedramamini/awesome-yara",
+    "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",
+    "enhanced_repository": "enhansome/enhansome-yara",
+    "enhanced_repository_description": null,
+    "title": "Awesome yara with stars"
+  }
+}
