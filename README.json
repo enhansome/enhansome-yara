@@ -123,7 +123,7 @@
             "last_commit": "2026-06-25T15:55:53Z",
             "owner": "eset",
             "repo": "malware-ioc",
-            "stars": 1975
+            "stars": 1976
           }
         },
         {
@@ -386,10 +386,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-08-15T13:20:47Z",
+            "last_commit": "2026-08-16T13:16:37Z",
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-07-20T13:32:08Z",
             "owner": "rapid7",
             "repo": "Rapid7-Labs",
-            "stars": 114
+            "stars": 113
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-08-13T08:46:01Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6473
+            "stars": 6475
           }
         },
         {
@@ -989,7 +989,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2557
+            "stars": 2558
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-14T19:05:17Z",
             "owner": "yeti-platform",
             "repo": "yeti",
-            "stars": 2015
+            "stars": 2016
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-01-10T06:36:10Z",
             "owner": "kevthehermit",
             "repo": "PasteHunter",
-            "stars": 1136
+            "stars": 1135
           }
         },
         {
@@ -1155,7 +1155,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T00:11:42Z",
+            "last_commit": "2026-08-16T00:10:48Z",
             "owner": "chainguard-dev",
             "repo": "malcontent",
             "stars": 673
@@ -1211,7 +1211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T09:46:18Z",
+            "last_commit": "2026-08-16T13:10:28Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 452
@@ -2704,7 +2704,7 @@
             "last_commit": "2026-07-20T20:53:58Z",
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
-            "stars": 811
+            "stars": 810
           }
         },
         {
@@ -2813,7 +2813,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118385
+            "stars": 118443
           }
         },
         {
@@ -2827,7 +2827,7 @@
             "last_commit": "2026-08-03T20:05:00Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28095
+            "stars": 28111
           }
         },
         {
@@ -2841,7 +2841,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26900
+            "stars": 26910
           }
         },
         {
@@ -2855,7 +2855,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16876
+            "stars": 16884
           }
         },
         {
@@ -2869,7 +2869,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14749
+            "stars": 14752
           }
         },
         {
@@ -2897,7 +2897,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14121
+            "stars": 14124
           }
         },
         {
@@ -2911,7 +2911,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10534
+            "stars": 10538
           }
         },
         {
@@ -2939,7 +2939,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9326
+            "stars": 9329
           }
         },
         {
@@ -2953,7 +2953,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9279
+            "stars": 9285
           }
         },
         {
@@ -2967,7 +2967,7 @@
             "last_commit": "2024-06-16T17:03:36Z",
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7277
+            "stars": 7278
           }
         },
         {
@@ -2978,7 +2978,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2025-11-21T19:28:33Z",
+            "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
             "stars": 5717
@@ -3009,7 +3009,7 @@
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4701
+            "stars": 4700
           }
         },
         {
@@ -3037,7 +3037,7 @@
             "last_commit": "2022-01-04T19:07:43Z",
             "owner": "qazbnm456",
             "repo": "awesome-cve-poc",
-            "stars": 3522
+            "stars": 3523
           }
         },
         {
@@ -3083,7 +3083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:33:23.538Z",
+    "last_updated": "2026-08-16T14:33:21.184Z",
     "original_repository": "pedramamini/awesome-yara",
     "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",
     "enhanced_repository": "enhansome/enhansome-yara",
