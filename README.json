@@ -1137,7 +1137,7 @@
             "last_commit": "2026-01-10T06:36:10Z",
             "owner": "kevthehermit",
             "repo": "PasteHunter",
-            "stars": 1136
+            "stars": 1137
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118948
+            "stars": 118949
           }
         },
         {
@@ -3003,7 +3003,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28281
+            "stars": 28282
           }
         },
         {
@@ -3266,7 +3266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:21.119Z",
+    "last_updated": "2026-08-24T14:54:21.477Z",
     "original_repository": "pedramamini/awesome-yara",
     "original_repository_id": 101214787,
     "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",

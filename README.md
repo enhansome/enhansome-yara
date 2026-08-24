@@ -6,7 +6,7 @@
 
 <h1 align="center">Awesome YARA</h1>
 
-A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,796 | 🐛 17 | 🌐 Python | 📅 2026-08-24 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13.
+A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,802 | 🐛 17 | 🌐 Python | 📅 2026-08-24 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13.
 
 > YARA is an ancronym for: YARA: Another Recursive Ancronym, or Yet Another Ridiculous Acronym. Pick your choice.
 >
@@ -213,7 +213,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
   * Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [YaraHunter](https://github.com/deepfence/YaraHunter) ⭐ 1,320 | 🐛 6 | 🌐 Go | 📅 2026-03-07
   * Malware scanner for cloud-native, as part of CI/CD and at Runtime
-* [PasteHunter](https://github.com/kevthehermit/PasteHunter) ⭐ 1,136 | 🐛 21 | 🌐 Python | 📅 2026-01-10
+* [PasteHunter](https://github.com/kevthehermit/PasteHunter) ⭐ 1,137 | 🐛 21 | 🌐 Python | 📅 2026-01-10
   * Scan pastebin.com with YARA rules.
 * [Strelka](https://github.com/target/strelka) ⭐ 999 | 🐛 14 | 🌐 Python | 📅 2026-08-22
   * Detection-Oriented File Analysis System built on Python3, ZeroMQ, and YARA, primarily used for threat detection/hunting and intelligence gathering.
@@ -509,8 +509,8 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 
 ## Related Awesome Lists
 
-* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,948 | 🐛 40 | 📅 2026-07-26
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,281 | 🐛 6 | 📅 2026-08-22
+* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,949 | 🐛 40 | 📅 2026-07-26
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,282 | 🐛 6 | 📅 2026-08-22
 * [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 26,995 | 🐛 104 | 📅 2026-07-25
 * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,929 | 🐛 69 | 📅 2024-06-02
 * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,791 | 🐛 313 | 📅 2026-01-11
