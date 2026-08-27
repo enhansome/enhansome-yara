@@ -51,7 +51,7 @@
             "last_commit": "2024-04-17T00:12:25Z",
             "owner": "Yara-Rules",
             "repo": "rules",
-            "stars": 4879
+            "stars": 4881
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 215366713,
             "language": "Python",
-            "last_commit": "2026-08-23T09:43:49Z",
+            "last_commit": "2026-08-27T12:10:57Z",
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3448
+            "stars": 3453
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-03T07:00:36Z",
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3013
+            "stars": 3015
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-25T15:55:53Z",
             "owner": "eset",
             "repo": "malware-ioc",
-            "stars": 1979
+            "stars": 1980
           }
         },
         {
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 804319384,
             "language": "YARA",
-            "last_commit": "2026-08-26T13:39:26Z",
+            "last_commit": "2026-08-27T10:44:25Z",
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
             "stars": 228
@@ -896,6 +896,21 @@
         },
         {
           "node_type": "item",
+          "title": "CyStack Stealer Fingerprints",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1231682626,
+            "language": "YARA",
+            "last_commit": "2026-06-09T12:22:08Z",
+            "owner": "cystack",
+            "repo": "stealer-fingerprints",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "VectraThreatLab Rules",
           "description": null,
           "children": [],
@@ -907,21 +922,6 @@
             "owner": "VectraThreatLab",
             "repo": "reyara",
             "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CyStack Stealer Fingerprints",
-          "description": "sparkles:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1231682626,
-            "language": "YARA",
-            "last_commit": "2026-06-09T12:22:08Z",
-            "owner": "cystack",
-            "repo": "stealer-fingerprints",
-            "stars": 17
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-08-26T13:08:05Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6488
+            "stars": 6490
           }
         },
         {
@@ -1029,10 +1029,10 @@
             "archived": false,
             "id": 215366713,
             "language": "Python",
-            "last_commit": "2026-08-23T09:43:49Z",
+            "last_commit": "2026-08-27T12:10:57Z",
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3448
+            "stars": 3453
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-07-27T17:35:45Z",
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2565
+            "stars": 2566
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "archived": false,
             "id": 47927876,
             "language": "Python",
-            "last_commit": "2026-08-26T11:06:26Z",
+            "last_commit": "2026-08-27T11:53:03Z",
             "owner": "yeti-platform",
             "repo": "yeti",
             "stars": 2020
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-01-10T06:36:10Z",
             "owner": "kevthehermit",
             "repo": "PasteHunter",
-            "stars": 1137
+            "stars": 1138
           }
         },
         {
@@ -1225,7 +1225,7 @@
             "archived": false,
             "id": 753881685,
             "language": "Go",
-            "last_commit": "2026-08-26T12:37:37Z",
+            "last_commit": "2026-08-27T06:47:34Z",
             "owner": "chainguard-dev",
             "repo": "malcontent",
             "stars": 675
@@ -1285,10 +1285,10 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:12:13Z",
+            "last_commit": "2026-08-26T20:22:37Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -2877,7 +2877,7 @@
             "last_commit": "2026-08-24T21:55:58Z",
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
-            "stars": 811
+            "stars": 812
           }
         },
         {
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119074
+            "stars": 119153
           }
         },
         {
@@ -3003,7 +3003,7 @@
             "last_commit": "2026-08-25T21:17:45Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28336
+            "stars": 28413
           }
         },
         {
@@ -3018,7 +3018,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27014
+            "stars": 27022
           }
         },
         {
@@ -3033,7 +3033,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16941
+            "stars": 16948
           }
         },
         {
@@ -3048,7 +3048,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14796
+            "stars": 14797
           }
         },
         {
@@ -3093,7 +3093,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10576
+            "stars": 10580
           }
         },
         {
@@ -3108,7 +3108,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10535
+            "stars": 10534
           }
         },
         {
@@ -3138,7 +3138,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9325
+            "stars": 9327
           }
         },
         {
@@ -3153,7 +3153,7 @@
             "last_commit": "2024-06-16T17:03:36Z",
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7296
+            "stars": 7295
           }
         },
         {
@@ -3168,7 +3168,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5726
+            "stars": 5727
           }
         },
         {
@@ -3198,7 +3198,7 @@
             "last_commit": "2026-01-05T12:27:34Z",
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4710
+            "stars": 4711
           }
         },
         {
@@ -3258,7 +3258,7 @@
             "last_commit": "2025-05-08T15:09:05Z",
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 996
+            "stars": 997
           }
         }
       ],
@@ -3266,9 +3266,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:56:29.923Z",
-    "original_repository": "pedramamini/awesome-yara",
-    "original_repository_id": 101214787,
+    "last_updated": "2026-08-27T12:13:50.067Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 101214787,
+      "language": null,
+      "last_commit": "2026-06-15T19:57:31Z",
+      "owner": "pedramamini",
+      "repo": "awesome-yara",
+      "stars": 4263
+    },
     "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",
     "enhanced_repository": "enhansome/enhansome-yara",
     "enhanced_repository_description": null,
