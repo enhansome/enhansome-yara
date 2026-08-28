@@ -16,7 +16,8 @@
             "owner": "Neo23x0",
             "repo": "YARA-Performance-Guidelines",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Neo23x0",
             "repo": "YARA-Style-Guide",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         }
       ],
       "title": "Guides"
@@ -52,7 +54,8 @@
             "owner": "Yara-Rules",
             "repo": "rules",
             "stars": 4882
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "kevoreilly",
             "repo": "CAPEv2",
             "stars": 3454
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-03T07:00:36Z",
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3015
-          }
+            "stars": 3014
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "mandiant",
             "repo": "red_team_tool_countermeasures",
             "stars": 2665
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "DidierStevens",
             "repo": "DidierStevensSuite",
             "stars": 2526
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-06-25T15:55:53Z",
             "owner": "eset",
             "repo": "malware-ioc",
-            "stars": 1980
-          }
+            "stars": 1981
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1482
-          }
+            "stars": 1484
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "airbnb",
             "repo": "binaryalert",
             "stars": 1455
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "reversinglabs",
             "repo": "reversinglabs-yara-rules",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "advanced-threat-research",
             "repo": "Yara-Rules",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "chronicle",
             "repo": "GCTI",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "AlienVault-Labs",
             "repo": "AlienVaultLabs",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "nccgroup",
             "repo": "Cyber-Defence",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "bartblaze",
             "repo": "Yara-rules",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "InQuest",
             "repo": "yara-rules",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "SupportIntelligence",
             "repo": "Icewater",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "volexity",
             "repo": "threat-intel",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "mikesxrs",
             "repo": "Open-Source-YARA-rules",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "StrangerealIntel",
             "repo": "DailyIOC",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "EmersonElectricCo",
             "repo": "fsf",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "ditekshen",
             "repo": "detection",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "SpiderLabs",
             "repo": "malware-analysis",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "t4d",
             "repo": "PhishingKit-Yara-Rules",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "rastrea2r",
             "repo": "rastrea2r",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -408,11 +434,12 @@
             "archived": false,
             "id": 804319384,
             "language": "YARA",
-            "last_commit": "2026-08-27T23:37:24Z",
+            "last_commit": "2026-08-28T20:39:25Z",
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 230
-          }
+            "stars": 233
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "sophos",
             "repo": "yaraml_rules",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "mthcht",
             "repo": "ThreatHunting-Keywords-yara-rules",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "malpedia",
             "repo": "signator-rules",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "citizenlab",
             "repo": "malware-signatures",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "Xumeiquer",
             "repo": "yara-forensics",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "intezer",
             "repo": "yara-rules",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "tylabs",
             "repo": "qs_old",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "DiabloHorn",
             "repo": "yara4pentesters",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "telekom-security",
             "repo": "malware_analysis",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "rapid7",
             "repo": "Rapid7-Labs",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "Hestat",
             "repo": "lw-yara",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "godaddy",
             "repo": "yara-rules",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "x64dbg",
             "repo": "yarasigs",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "advanced-threat-research",
             "repo": "IOCs",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "karttoon",
             "repo": "binsequencer",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "delivr-to",
             "repo": "detections",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "fboldewin",
             "repo": "YARA-rules",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "MalGamy",
             "repo": "YARA_Rules",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "tenable",
             "repo": "yara-rules",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "kevthehermit",
             "repo": "YaraRules",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "codewatchorg",
             "repo": "Burp-Yara-Rules",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "deadbits",
             "repo": "yara-rules",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "stvemillertime",
             "repo": "ConventionEngine",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "anyrun",
             "repo": "YARA",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "jeFF0Falltrades",
             "repo": "YARA-Signatures",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "malice-plugins",
             "repo": "yara",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "wrayjustin",
             "repo": "yaids",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -832,22 +886,8 @@
             "owner": "fr0gger",
             "repo": "Yara-Unprotect",
             "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "h3x2b Rules",
-          "description": "gem:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 70002675,
-            "language": "YARA",
-            "last_commit": "2025-09-09T18:46:09Z",
-            "owner": "h3x2b",
-            "repo": "yara-rules",
-            "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -862,7 +902,24 @@
             "owner": "filescanio",
             "repo": "fsYara",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "h3x2b Rules",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70002675,
+            "language": "YARA",
+            "last_commit": "2025-09-09T18:46:09Z",
+            "owner": "h3x2b",
+            "repo": "yara-rules",
+            "stars": 22
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -877,7 +934,8 @@
             "owner": "imp0rtp3",
             "repo": "yara-rules",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -892,7 +950,8 @@
             "owner": "CyberDefenses",
             "repo": "CDI_yara",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -907,7 +966,8 @@
             "owner": "cystack",
             "repo": "stealer-fingerprints",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -922,7 +982,8 @@
             "owner": "VectraThreatLab",
             "repo": "reyara",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -937,7 +998,8 @@
             "owner": "securitymagic",
             "repo": "yara",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1014,8 @@
             "owner": "jipegit",
             "repo": "yara-rules-public",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1030,8 @@
             "owner": "f0wl",
             "repo": "yara_rules",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1046,8 @@
             "owner": "tjnel",
             "repo": "yara_repo",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1062,8 @@
             "owner": "paolocostanzo",
             "repo": "operation-epic-fury-rules",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         }
       ],
       "title": "Rules"
@@ -1018,7 +1084,8 @@
             "owner": "MISP",
             "repo": "MISP",
             "stars": 6490
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "kevoreilly",
             "repo": "CAPEv2",
             "stars": 3454
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "rednaga",
             "repo": "APKiD",
             "stars": 2566
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1059,11 +1128,12 @@
             "archived": false,
             "id": 47927876,
             "language": "Python",
-            "last_commit": "2026-08-27T22:21:11Z",
+            "last_commit": "2026-08-28T13:35:09Z",
             "owner": "yeti-platform",
             "repo": "yeti",
             "stars": 2020
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1148,8 @@
             "owner": "Neo23x0",
             "repo": "yarGen",
             "stars": 1811
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "polymorf",
             "repo": "findcrypt-yara",
             "stars": 1735
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "airbnb",
             "repo": "binaryalert",
             "stars": 1455
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "deepfence",
             "repo": "YaraHunter",
             "stars": 1320
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1212,8 @@
             "owner": "kevthehermit",
             "repo": "PasteHunter",
             "stars": 1138
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1228,8 @@
             "owner": "target",
             "repo": "strelka",
             "stars": 1000
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1244,8 @@
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1265,8 @@
                 "owner": "lmco",
                 "repo": "laikaboss",
                 "stars": 753
-              }
+              },
+              "first_seen": "2026-08-28T23:31:22.235Z"
             }
           ],
           "repo_info": {
@@ -1199,7 +1277,8 @@
             "owner": "lmco",
             "repo": "laikaboss",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1214,7 +1293,8 @@
             "owner": "KasperskyLab",
             "repo": "klara",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1225,11 +1305,12 @@
             "archived": false,
             "id": 753881685,
             "language": "Go",
-            "last_commit": "2026-08-27T19:57:41Z",
+            "last_commit": "2026-08-28T06:42:51Z",
             "owner": "chainguard-dev",
             "repo": "malcontent",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1244,7 +1325,8 @@
             "owner": "mitre",
             "repo": "multiscanner",
             "stars": 621
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1259,7 +1341,8 @@
             "owner": "pedramamini",
             "repo": "iocextract",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1274,7 +1357,8 @@
             "owner": "JPCERTCC",
             "repo": "MalConfScan",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1289,7 +1373,8 @@
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1304,7 +1389,24 @@
             "owner": "CERT-Polska",
             "repo": "mquery",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GoDaddy ProcFilter",
+          "description": "gem:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 62661285,
+            "language": "C++",
+            "last_commit": "2020-02-15T00:44:19Z",
+            "owner": "godaddy",
+            "repo": "procfilter",
+            "stars": 399
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1319,22 +1421,8 @@
             "owner": "MagnetForensics",
             "repo": "SwishDbgExt",
             "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GoDaddy ProcFilter",
-          "description": "gem:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 62661285,
-            "language": "C++",
-            "last_commit": "2020-02-15T00:44:19Z",
-            "owner": "godaddy",
-            "repo": "procfilter",
-            "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1349,7 +1437,8 @@
             "owner": "Neo23x0",
             "repo": "yarAnalyzer",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1364,7 +1453,8 @@
             "owner": "PUNCH-Cyber",
             "repo": "stoq",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1379,7 +1469,8 @@
             "owner": "hillu",
             "repo": "go-yara",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1394,7 +1485,8 @@
             "owner": "ANSSI-FR",
             "repo": "polichombr",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1409,7 +1501,8 @@
             "owner": "Xen0ph0n",
             "repo": "YaraGenerator",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1517,8 @@
             "owner": "BayshoreNetworks",
             "repo": "yextend",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1533,8 @@
             "owner": "EFForg",
             "repo": "yaya",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1454,7 +1549,8 @@
             "owner": "Neo23x0",
             "repo": "Fnord",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1469,7 +1565,8 @@
             "owner": "EmersonElectricCo",
             "repo": "fsf",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1484,7 +1581,24 @@
             "owner": "google",
             "repo": "vxsig",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Arya- The Reverse YARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469688461,
+            "language": "Python",
+            "last_commit": "2022-12-27T19:30:43Z",
+            "owner": "claroty",
+            "repo": "arya",
+            "stars": 261
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1499,22 +1613,8 @@
             "owner": "codeyourweb",
             "repo": "fastfinder",
             "stars": 261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arya- The Reverse YARA",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 469688461,
-            "language": "Python",
-            "last_commit": "2022-12-27T19:30:43Z",
-            "owner": "claroty",
-            "repo": "arya",
-            "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1529,7 +1629,8 @@
             "owner": "hyuunnn",
             "repo": "Hyara",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1544,7 +1645,8 @@
             "owner": "ion-storm",
             "repo": "sysmon-edr",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1559,7 +1661,8 @@
             "owner": "fox-it",
             "repo": "mkYARA",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1574,7 +1677,8 @@
             "owner": "target",
             "repo": "halogen",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1589,7 +1693,8 @@
             "owner": "PUNCH-Cyber",
             "repo": "YaraGuardian",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1604,7 +1709,8 @@
             "owner": "plyara",
             "repo": "plyara",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1619,7 +1725,8 @@
             "owner": "spyre-project",
             "repo": "spyre",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1634,7 +1741,8 @@
             "owner": "fxb-cocacoding",
             "repo": "yara-signator",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1649,7 +1757,8 @@
             "owner": "AlienVault-OTX",
             "repo": "yabin",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1664,7 +1773,8 @@
             "owner": "michelcrypt4d4mus",
             "repo": "yaralyzer",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1679,7 +1789,8 @@
             "owner": "CrowdStrike",
             "repo": "CrowdFMS",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1694,7 +1805,8 @@
             "owner": "avast",
             "repo": "yaramod",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1709,7 +1821,8 @@
             "owner": "CybercentreCanada",
             "repo": "CCCS-Yara",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1724,7 +1837,8 @@
             "owner": "Yara-Rules",
             "repo": "yara-endpoint",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1739,7 +1853,8 @@
             "owner": "kevthehermit",
             "repo": "YaraPcap",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1754,7 +1869,8 @@
             "owner": "InQuest",
             "repo": "ThreatKB",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1769,7 +1885,8 @@
             "owner": "lucamassarelli",
             "repo": "yarasafe",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1784,7 +1901,8 @@
             "owner": "arieljt",
             "repo": "VTCodeSimilarity-YaraGen",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1799,7 +1917,8 @@
             "owner": "avast",
             "repo": "yari",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1814,7 +1933,8 @@
             "owner": "Northern-Lights",
             "repo": "yara-parser",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1829,7 +1949,8 @@
             "owner": "Hugal31",
             "repo": "yara-rust",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1844,7 +1965,8 @@
             "owner": "FutureComputing4AI",
             "repo": "AutoYara",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1859,7 +1981,8 @@
             "owner": "CIRCL",
             "repo": "factual-rules-generator",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1874,7 +1997,8 @@
             "owner": "avast",
             "repo": "yls",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1889,7 +2013,8 @@
             "owner": "matonis",
             "repo": "yara_tools",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1904,7 +2029,8 @@
             "owner": "3c7",
             "repo": "yaramanager",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1919,7 +2045,8 @@
             "owner": "jimmy-sonny",
             "repo": "YaYaGen",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1934,7 +2061,8 @@
             "owner": "defended-net",
             "repo": "malwatch",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1949,7 +2077,8 @@
             "owner": "SCILabsMX",
             "repo": "yaraZeekAlert",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1964,7 +2093,8 @@
             "owner": "bartblaze",
             "repo": "FARA",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1979,7 +2109,8 @@
             "owner": "microsoft",
             "repo": "libyara.NET",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -1994,7 +2125,8 @@
             "owner": "RamadhanAmizudin",
             "repo": "python-icap-yara",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2009,7 +2141,8 @@
             "owner": "kevthehermit",
             "repo": "YaraManager",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2024,7 +2157,8 @@
             "owner": "lprat",
             "repo": "static_file_analysis",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2039,7 +2173,8 @@
             "owner": "imp0rtp3",
             "repo": "Yobi",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2054,7 +2189,8 @@
             "owner": "PolitoInc",
             "repo": "Yara-Scanner",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2069,7 +2205,8 @@
             "owner": "bandrel",
             "repo": "OCyara",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2084,7 +2221,8 @@
             "owner": "stellarbear",
             "repo": "YaraSharp",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2099,7 +2237,8 @@
             "owner": "CIRCL",
             "repo": "yara-validator",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2114,7 +2253,8 @@
             "owner": "DissectMalware",
             "repo": "base64_substring",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2129,7 +2269,8 @@
             "owner": "airbus-cert",
             "repo": "dnYara",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2144,7 +2285,8 @@
             "owner": "DissectMalware",
             "repo": "yaradbg-frontend",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2159,7 +2301,8 @@
             "owner": "techbliss",
             "repo": "Yara_Mailware_Quick_menu_scanner",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2174,7 +2317,8 @@
             "owner": "mrexodia",
             "repo": "YaraGen",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2189,7 +2333,8 @@
             "owner": "NumLocK15",
             "repo": "YaraStation",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2204,7 +2349,8 @@
             "owner": "abhinavbom",
             "repo": "clara",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2219,7 +2365,8 @@
             "owner": "silascutler",
             "repo": "VirusTotalTools",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2234,7 +2381,8 @@
             "owner": "reed1713",
             "repo": "ELAT",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2249,7 +2397,8 @@
             "owner": "PwCUK-CTO",
             "repo": "rtfsig",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2264,7 +2413,8 @@
             "owner": "immortalp0ny",
             "repo": "yarg",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2279,7 +2429,24 @@
             "owner": "Fadavvi",
             "repo": "Yara-Repo",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ida-yara-processor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166248707,
+            "language": "Python",
+            "last_commit": "2019-01-22T14:27:35Z",
+            "owner": "bnbdr",
+            "repo": "ida-yara-processor",
+            "stars": 28
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2294,7 +2461,8 @@
             "owner": "kevthehermit",
             "repo": "yaraMail",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2309,22 +2477,8 @@
             "owner": "YARA-Silly-Silly",
             "repo": "yarasilly2",
             "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ida-yara-processor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 166248707,
-            "language": "Python",
-            "last_commit": "2019-01-22T14:27:35Z",
-            "owner": "bnbdr",
-            "repo": "ida-yara-processor",
-            "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2339,7 +2493,8 @@
             "owner": "DissectMalware",
             "repo": "yaradbg-backend",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2354,7 +2509,8 @@
             "owner": "jheise",
             "repo": "yarascanner",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2369,7 +2525,8 @@
             "owner": "alexander-hanel",
             "repo": "ida_yara",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2384,7 +2541,8 @@
             "owner": "cloudina",
             "repo": "hawk",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2399,7 +2557,8 @@
             "owner": "nccgroup",
             "repo": "yaml2yara",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2414,7 +2573,8 @@
             "owner": "rpgeeganage",
             "repo": "audit-node-modules-with-yara",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2429,7 +2589,8 @@
             "owner": "k-sec-tools",
             "repo": "ExchangeFilter",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2444,7 +2605,8 @@
             "owner": "ace-ecosystem",
             "repo": "yara_scanner",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2459,7 +2621,8 @@
             "owner": "mtnmunuklu",
             "repo": "alterix",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2474,7 +2637,8 @@
             "owner": "sk4la",
             "repo": "plast",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2489,7 +2653,8 @@
             "owner": "hashlookup",
             "repo": "a-ray-grass",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2504,7 +2669,8 @@
             "owner": "nospaceships",
             "repo": "node-yara",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2519,7 +2685,8 @@
             "owner": "Sh3llyR",
             "repo": "statiStrings",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2534,7 +2701,8 @@
             "owner": "usualsuspect",
             "repo": "malscan",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2549,7 +2717,8 @@
             "owner": "horsicq",
             "repo": "YARA-sort",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2564,7 +2733,8 @@
             "owner": "stoerchl",
             "repo": "yara_zip_module",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2579,7 +2749,8 @@
             "owner": "swackhamer",
             "repo": "IDA_scripts",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2594,7 +2765,8 @@
             "owner": "anpa1200",
             "repo": "AIDebug",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2609,7 +2781,8 @@
             "owner": "XVilka",
             "repo": "yara-ocaml",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2624,7 +2797,8 @@
             "owner": "google",
             "repo": "yara-procdump-python",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2639,7 +2813,8 @@
             "owner": "Sh3llyR",
             "repo": "yaraScanParser",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2654,7 +2829,8 @@
             "owner": "darienhuss",
             "repo": "shotgunyara",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2669,7 +2845,8 @@
             "owner": "BitsOfBinary",
             "repo": "yaraparser",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2684,7 +2861,8 @@
             "owner": "rjzak",
             "repo": "decompressingyara",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2704,7 +2882,8 @@
                 "owner": "p8a",
                 "repo": "yara-java",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:31:22.235Z"
             }
           ],
           "repo_info": {
@@ -2715,7 +2894,8 @@
             "owner": "subreption",
             "repo": "yara-java",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2730,7 +2910,8 @@
             "owner": "MindMac",
             "repo": "androguard-yara",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2745,7 +2926,8 @@
             "owner": "subreption",
             "repo": "ghidra_yara",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2760,7 +2942,8 @@
             "owner": "elastic",
             "repo": "ocaml-yara",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2775,7 +2958,8 @@
             "owner": "deadbits",
             "repo": "yaraVT",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2790,7 +2974,8 @@
             "owner": "m0n4",
             "repo": "YARA-Matches-Correspondance-Array",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2805,7 +2990,8 @@
             "owner": "fxb-cocacoding",
             "repo": "java2yara",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2820,7 +3006,8 @@
             "owner": "k-sec-tools",
             "repo": "YaraFileCheckerLib",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2835,7 +3022,8 @@
             "owner": "bad-antics",
             "repo": "nullsec-yara",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "group",
@@ -2854,8 +3042,9 @@
                 "last_commit": "2026-01-12T08:00:47Z",
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3784
-              }
+                "stars": 3786
+              },
+              "first_seen": "2026-08-28T23:31:22.235Z"
             }
           ]
         }
@@ -2877,8 +3066,9 @@
             "last_commit": "2026-08-24T21:55:58Z",
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
-            "stars": 812
-          }
+            "stars": 813
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2893,7 +3083,8 @@
             "owner": "infosec-intern",
             "repo": "vscode-yara",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2908,7 +3099,8 @@
             "owner": "blacktop",
             "repo": "language-yara",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2923,7 +3115,8 @@
             "owner": "nyx0",
             "repo": "YaraSyntax",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2938,7 +3131,8 @@
             "owner": "yaunj",
             "repo": "vim-yara",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2953,7 +3147,8 @@
             "owner": "binjo",
             "repo": "yara-mode",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -2968,7 +3163,8 @@
             "owner": "wesinator",
             "repo": "GtkSourceView-YARA",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         }
       ],
       "title": "Syntax Highlighters"
@@ -2988,8 +3184,9 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119195
-          }
+            "stars": 119253
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3003,8 +3200,9 @@
             "last_commit": "2026-08-25T21:17:45Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28490
-          }
+            "stars": 28617
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3018,8 +3216,9 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27037
-          }
+            "stars": 27049
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3033,8 +3232,9 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16955
-          }
+            "stars": 16962
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3048,8 +3248,9 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14802
-          }
+            "stars": 14805
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3060,11 +3261,12 @@
             "archived": false,
             "id": 48246447,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:58:42Z",
+            "last_commit": "2026-08-28T16:40:37Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14751
-          }
+            "stars": 14752
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3078,8 +3280,9 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14160
-          }
+            "stars": 14162
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3093,8 +3296,9 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10580
-          }
+            "stars": 10581
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3108,8 +3312,9 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10534
-          }
+            "stars": 10536
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3123,8 +3328,9 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9354
-          }
+            "stars": 9357
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3138,8 +3344,9 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9328
-          }
+            "stars": 9330
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3153,8 +3360,9 @@
             "last_commit": "2024-06-16T17:03:36Z",
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7297
-          }
+            "stars": 7298
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3165,11 +3373,12 @@
             "archived": false,
             "id": 35577029,
             "language": null,
-            "last_commit": "2026-08-15T16:05:29Z",
+            "last_commit": "2026-08-28T15:30:27Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5727
-          }
+            "stars": 5728
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3183,8 +3392,9 @@
             "last_commit": "2026-08-23T09:53:20Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5164
-          }
+            "stars": 5165
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3199,7 +3409,8 @@
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
             "stars": 4711
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3214,7 +3425,8 @@
             "owner": "tylerha97",
             "repo": "awesome-reversing",
             "stars": 4513
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3229,7 +3441,8 @@
             "owner": "qazbnm456",
             "repo": "awesome-cve-poc",
             "stars": 3527
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3243,8 +3456,9 @@
             "last_commit": "2025-09-03T07:24:40Z",
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3414
-          }
+            "stars": 3416
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         },
         {
           "node_type": "item",
@@ -3259,14 +3473,15 @@
             "owner": "sroberts",
             "repo": "awesome-iocs",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:45:18.915Z",
+    "last_updated": "2026-08-28T23:31:22.235Z",
     "original_repository_info": {
       "archived": false,
       "id": 101214787,
@@ -3274,7 +3489,7 @@
       "last_commit": "2026-06-15T19:57:31Z",
       "owner": "pedramamini",
       "repo": "awesome-yara",
-      "stars": 4263
+      "stars": 4265
     },
     "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",
     "enhanced_repository": "enhansome/enhansome-yara",
