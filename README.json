@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide on how to write fast and memory friendly YARA rules",
+            "homepage": null,
             "id": 339640727,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-11T09:58:46Z",
+            "open_issues": 0,
             "owner": "Neo23x0",
             "repo": "YARA-Performance-Guidelines",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A specification and style guide for YARA rules",
+            "homepage": null,
             "id": 636442512,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-02-17T10:48:01Z",
+            "open_issues": 2,
             "owner": "Neo23x0",
             "repo": "YARA-Style-Guide",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of yara rules",
+            "homepage": null,
             "id": 33764615,
             "language": "YARA",
+            "license": "GPL-2.0",
             "last_commit": "2024-04-17T00:12:25Z",
+            "open_issues": 28,
             "owner": "Yara-Rules",
             "repo": "rules",
-            "stars": 4882
+            "stars": 4882,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -64,12 +79,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Malware Configuration And Payload Extraction",
+            "homepage": "https://capesandbox.com/analysis/",
             "id": 215366713,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T12:10:57Z",
+            "open_issues": 58,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3454
+            "stars": 3454,
+            "topics": [
+              "cape",
+              "configs",
+              "debugging-tools",
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "reverse-engineering",
+              "sandbox",
+              "unpacking"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -80,12 +110,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA signature and IOC database for my scanners and tools",
+            "homepage": null,
             "id": 51743885,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T07:00:36Z",
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3014
+            "stars": 3014,
+            "topics": [
+              "anti-virus",
+              "dfir",
+              "hash",
+              "ioc",
+              "scanner",
+              "signature",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -96,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 318029147,
             "language": "YARA",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-03-05T10:19:46Z",
+            "open_issues": 2,
             "owner": "mandiant",
             "repo": "red_team_tool_countermeasures",
-            "stars": 2665
+            "stars": 2665,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -112,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Please no pull requests for this repository. Thanks!",
+            "homepage": "http://blog.didierstevens.com/didier-stevens-suite/",
             "id": 35275445,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-30T13:37:13Z",
+            "open_issues": 13,
             "owner": "DidierStevens",
             "repo": "DidierStevensSuite",
-            "stars": 2526
+            "stars": 2526,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -128,12 +184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indicators of Compromises (IOC) of our various investigations",
+            "homepage": "https://www.welivesecurity.com",
             "id": 17713436,
             "language": "YARA",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-25T15:55:53Z",
+            "open_issues": 0,
             "owner": "eset",
             "repo": "malware-ioc",
-            "stars": 1981
+            "stars": 1981,
+            "topics": [
+              "ioc",
+              "malware",
+              "misp",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -144,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic Security detection content for Endpoint",
+            "homepage": "https://www.elastic.co/security/endpoint-security",
             "id": 495971687,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T10:09:02Z",
+            "open_issues": 6,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -160,12 +231,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.",
+            "homepage": "https://binaryalert.io",
             "id": 97053386,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-12T18:28:30Z",
+            "open_issues": 43,
             "owner": "airbnb",
             "repo": "binaryalert",
-            "stars": 1455
+            "stars": 1455,
+            "topics": [
+              "aws",
+              "lambda",
+              "malware-detection",
+              "security",
+              "serverless",
+              "terraform",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -176,12 +260,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ReversingLabs YARA Rules",
+            "homepage": "http://www.reversinglabs.com",
             "id": 275161916,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2025-11-03T15:00:04Z",
+            "open_issues": 3,
             "owner": "reversinglabs",
             "repo": "reversinglabs-yara-rules",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "indicators-of-compromise",
+              "malware-detection",
+              "ransomware-detection",
+              "ransomware-prevention",
+              "reverse-engineering",
+              "yara",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -192,12 +290,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of YARA rules made by Trellix ATR Team",
+            "homepage": null,
             "id": 151364524,
             "language": "YARA",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-18T15:17:48Z",
+            "open_issues": 0,
             "owner": "advanced-threat-research",
             "repo": "Yara-Rules",
-            "stars": 626
+            "stars": 626,
+            "topics": [
+              "iocs",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -208,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 566477780,
             "language": "YARA",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-04T21:22:06Z",
+            "open_issues": 1,
             "owner": "chronicle",
             "repo": "GCTI",
-            "stars": 553
+            "stars": 553,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -224,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alienvault Labs Projects Random Stuff",
+            "homepage": null,
             "id": 11666992,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-22T03:31:37Z",
+            "open_issues": 4,
             "owner": "AlienVault-Labs",
             "repo": "AlienVaultLabs",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -240,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information released publicly by NCC Group's Cyber Incident Response Team",
+            "homepage": "https://www.nccgroup.com/us/protection-detection-and-response/incident-response/",
             "id": 51435363,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-12T18:25:34Z",
+            "open_issues": 0,
             "owner": "nccgroup",
             "repo": "Cyber-Defence",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -256,12 +379,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of private Yara rules.",
+            "homepage": null,
             "id": 250363106,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2026-01-28T17:20:13Z",
+            "open_issues": 1,
             "owner": "bartblaze",
             "repo": "Yara-rules",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "malware-detection",
+              "ransomware-detection",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -272,12 +408,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of YARA rules we wish to share with the world, most probably referenced from http://blog.inquest.net.",
+            "homepage": null,
             "id": 106597699,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-11T21:54:48Z",
+            "open_issues": 1,
             "owner": "InQuest",
             "repo": "yara-rules",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "threat-hunting",
+              "yara",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -288,12 +434,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "16,432 Free Yara rules created by",
+            "homepage": "http://icewater.io",
             "id": 99948159,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-01T05:05:25Z",
+            "open_issues": 3,
             "owner": "SupportIntelligence",
             "repo": "Icewater",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "cluster",
+              "dna",
+              "malware-analysis",
+              "threat",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -304,12 +461,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Signatures and IoCs from public Volexity blog posts.",
+            "homepage": null,
             "id": 395054458,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T20:23:48Z",
+            "open_issues": 0,
             "owner": "volexity",
             "repo": "threat-intel",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "snort-rules",
+              "suricata-rules",
+              "threat-intelligence",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -320,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA Rules I come across on the internet",
+            "homepage": null,
             "id": 56205631,
             "language": "YARA",
+            "license": null,
             "last_commit": "2024-04-17T00:53:51Z",
+            "open_issues": 2,
             "owner": "mikesxrs",
             "repo": "Open-Source-YARA-rules",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -336,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IOC from articles, tweets for archives",
+            "homepage": null,
             "id": 222416605,
             "language": "YARA",
+            "license": null,
             "last_commit": "2023-12-12T18:35:01Z",
+            "open_issues": 6,
             "owner": "StrangerealIntel",
             "repo": "DailyIOC",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -352,12 +530,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File Scanning Framework",
+            "homepage": null,
             "id": 40277722,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-15T20:04:45Z",
+            "open_issues": 17,
             "owner": "EmersonElectricCo",
             "repo": "fsf",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "file-analysis",
+              "file-analyzer",
+              "network-defense",
+              "security-tools",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -368,12 +557,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detection in the form of Yara, Snort and ClamAV signatures.",
+            "homepage": null,
             "id": 268316789,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-01T06:30:17Z",
+            "open_issues": 2,
             "owner": "ditekshen",
             "repo": "detection",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "clamav",
+              "detection",
+              "ioc",
+              "rules",
+              "signatures",
+              "snort",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -384,12 +586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of tools and scripts related to malware analysis",
+            "homepage": null,
             "id": 4521391,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2016-07-29T21:08:09Z",
+            "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "malware-analysis",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -400,12 +607,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of Yara rules dedicated to Phishing Kits Zip files",
+            "homepage": "https://stalkphish.com",
             "id": 230866395,
             "language": "YARA",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-19T23:01:29Z",
+            "open_issues": 0,
             "owner": "t4d",
             "repo": "PhishingKit-Yara-Rules",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "fraud-detection",
+              "fraud-prevention",
+              "phishing",
+              "phishing-detection",
+              "phishing-kit",
+              "phishing-sites",
+              "phishing-tool",
+              "virustotal",
+              "virustotal-search",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -416,12 +639,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collecting & Hunting for IOCs with gusto and style",
+            "homepage": null,
             "id": 131747684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-01T11:12:02Z",
+            "open_issues": 8,
             "owner": "rastrea2r",
             "repo": "rastrea2r",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "hunting",
+              "ioc",
+              "security-tools",
+              "threat"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -432,12 +665,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine.",
+            "homepage": "https://discord.gg/7XMCuj5mbP",
             "id": 804319384,
             "language": "YARA",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T20:39:25Z",
+            "open_issues": 0,
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "antimalware",
+              "antivirus",
+              "antivirus-software",
+              "edr",
+              "local-antivirus",
+              "malware-analysis",
+              "malware-research",
+              "open-source-antivirus",
+              "xdr"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -448,12 +696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security ML models encoded as Yara rules",
+            "homepage": null,
             "id": 236205135,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-06T21:15:01Z",
+            "open_issues": 4,
             "owner": "sophos",
             "repo": "yaraml_rules",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -464,12 +717,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yara detection rules for hunting with the threathunting-keywords project",
+            "homepage": null,
             "id": 707131493,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-11T15:59:53Z",
+            "open_issues": 1,
             "owner": "mthcht",
             "repo": "ThreatHunting-Keywords-yara-rules",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "awesome-list",
+              "blueteam",
+              "detection-engineering",
+              "dfir",
+              "forensics-tools",
+              "hacktools",
+              "hunting",
+              "incident-response",
+              "offensive-security",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara-forensics",
+              "yara-rules",
+              "yara-scanner",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -480,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of rules created using YARA-Signator over Malpedia",
+            "homepage": null,
             "id": 405131571,
             "language": "YARA",
+            "license": null,
             "last_commit": "2026-05-18T13:48:19Z",
+            "open_issues": 1,
             "owner": "malpedia",
             "repo": "signator-rules",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -496,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rules for malware families seen as part of targeted threats project",
+            "homepage": null,
             "id": 19461249,
             "language": "VimL",
+            "license": null,
             "last_commit": "2016-11-17T19:27:09Z",
+            "open_issues": 1,
             "owner": "citizenlab",
             "repo": "malware-signatures",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -512,12 +796,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of Yara rules for finding files using magics headers",
+            "homepage": null,
             "id": 89471115,
             "language": "YARA",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-08T08:13:39Z",
+            "open_issues": 1,
             "owner": "Xumeiquer",
             "repo": "yara-forensics",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "dump-files",
+              "forensics",
+              "magic-headers",
+              "yara",
+              "yara-forensics",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -528,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185764221,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2025-02-02T17:45:23Z",
+            "open_issues": 0,
             "owner": "intezer",
             "repo": "yara-rules",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -544,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool for scanning streams within office documents plus xor db attack",
+            "homepage": null,
             "id": 76299818,
             "language": "C",
+            "license": "MPL-2.0",
             "last_commit": "2023-09-23T20:04:38Z",
+            "open_issues": 0,
             "owner": "tylabs",
             "repo": "qs_old",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -560,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rules to identify files containing juicy information like usernames, passwords etc",
+            "homepage": null,
             "id": 115280935,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-01-31T09:38:17Z",
+            "open_issues": 0,
             "owner": "DiabloHorn",
             "repo": "yara4pentesters",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -576,12 +887,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains analysis scripts, YARA rules, and additional IoCs related to our Telekom Security blog posts.",
+            "homepage": "https://www.telekom.com/en/blog",
             "id": 365242455,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-04T09:42:36Z",
+            "open_issues": 2,
             "owner": "telekom-security",
             "repo": "malware_analysis",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "cti",
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -592,12 +914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid7 Labs operates as the division of Rapid7 focused on threat research. It is renowned for providing comprehensive threat intelligence, research and analytics.",
+            "homepage": null,
             "id": 725003295,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-19T16:23:12Z",
+            "open_issues": 0,
             "owner": "rapid7",
             "repo": "Rapid7-Labs",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -608,12 +935,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara Ruleset  for scanning Linux servers for shells, spamming, phishing and other webserver baddies",
+            "homepage": null,
             "id": 131151417,
             "language": "YARA",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-04T00:57:41Z",
+            "open_issues": 0,
             "owner": "Hestat",
             "repo": "lw-yara",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "dfir",
+              "lw-yara",
+              "malware-detection",
+              "signature",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -624,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "YARA rules for use with ProcFilter",
+            "homepage": null,
             "id": 61331558,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-07-28T19:42:47Z",
+            "open_issues": 0,
             "owner": "godaddy",
             "repo": "yara-rules",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -640,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various Yara signatures (possibly to be included in a release later).",
+            "homepage": null,
             "id": 36986077,
             "language": "YARA",
+            "license": null,
             "last_commit": "2019-05-23T08:44:55Z",
+            "open_issues": 0,
             "owner": "x64dbg",
             "repo": "yarasigs",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -656,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository containing IOCs, CSV and MISP JSON from our blogs",
+            "homepage": "https://securingtomorrow.mcafee.com/category/other-blogs/mcafee-labs/",
             "id": 121399022,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-08-04T14:22:36Z",
+            "open_issues": 1,
             "owner": "advanced-threat-research",
             "repo": "IOCs",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -672,12 +1025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " BinSequencer is a script designed to find a common pattern of bytes within a set of samples and generate a YARA rule from the identified pattern.",
+            "homepage": null,
             "id": 136337019,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T15:19:51Z",
+            "open_issues": 1,
             "owner": "karttoon",
             "repo": "binsequencer",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -688,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A home for detection content developed by the delivr.to team",
+            "homepage": null,
             "id": 599218275,
             "language": "YARA",
+            "license": null,
             "last_commit": "2025-08-10T23:58:46Z",
+            "open_issues": 1,
             "owner": "delivr-to",
             "repo": "detections",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -704,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some YARA rules i will add from time to time",
+            "homepage": null,
             "id": 172937138,
             "language": "YARA",
+            "license": null,
             "last_commit": "2023-03-25T20:47:06Z",
+            "open_issues": 1,
             "owner": "fboldewin",
             "repo": "YARA-rules",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -720,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 561478605,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-27T16:27:29Z",
+            "open_issues": 2,
             "owner": "MalGamy",
             "repo": "YARA_Rules",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -736,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of yara rules",
+            "homepage": null,
             "id": 73311504,
             "language": "YARA",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-29T20:48:37Z",
+            "open_issues": 0,
             "owner": "tenable",
             "repo": "yara-rules",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -752,12 +1130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Yara Rules Collection",
+            "homepage": null,
             "id": 32225059,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-07T22:44:16Z",
+            "open_issues": 0,
             "owner": "kevthehermit",
             "repo": "YaraRules",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -768,12 +1151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rules to be used with the Burp Yara-Scanner extension",
+            "homepage": null,
             "id": 62069347,
             "language": "YARA",
+            "license": null,
             "last_commit": "2022-01-26T14:51:44Z",
+            "open_issues": 0,
             "owner": "codewatchorg",
             "repo": "Burp-Yara-Rules",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -784,12 +1172,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of YARA signatures from individual research",
+            "homepage": null,
             "id": 196068398,
             "language": "YARA",
+            "license": "Unlicense",
             "last_commit": "2023-11-20T09:46:27Z",
+            "open_issues": 2,
             "owner": "deadbits",
             "repo": "yara-rules",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "malware-analysis",
+              "malware-detection",
+              "malware-protection",
+              "malware-research",
+              "yara",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -800,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ConventionEngine - A Yara Rulepack for PDB Path Hunting",
+            "homepage": null,
             "id": 184259953,
             "language": "YARA",
+            "license": null,
             "last_commit": "2023-03-15T13:55:28Z",
+            "open_issues": 2,
             "owner": "stvemillertime",
             "repo": "ConventionEngine",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -816,12 +1222,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maintained by the ANY.RUN team, this repository provides YARA rules to help detect and classify various malware families and other malicious artifacts.",
+            "homepage": "https://any.run/?utm_source=github",
             "id": 686932261,
             "language": "YARA",
+            "license": null,
             "last_commit": "2025-11-01T05:25:50Z",
+            "open_issues": 0,
             "owner": "anyrun",
             "repo": "YARA",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "anyrun-sandbox",
+              "cybersecurity",
+              "malware-analysis",
+              "threat-detection",
+              "threat-intelligence",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -832,12 +1251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of my public YARA signatures for various malware families",
+            "homepage": null,
             "id": 178643864,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-20T03:21:10Z",
+            "open_issues": 0,
             "owner": "jeFF0Falltrades",
             "repo": "YARA-Signatures",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -848,12 +1272,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Malice Yara Plugin",
+            "homepage": "https://hub.docker.com/r/malice/yara/",
             "id": 48824553,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-08T23:50:46Z",
+            "open_issues": 0,
             "owner": "malice-plugins",
             "repo": "yara",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "docker",
+              "golang",
+              "malice",
+              "malice-plugin",
+              "malware",
+              "malware-analysis",
+              "malware-analyzer",
+              "malware-detection",
+              "malware-research",
+              "plugin",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -864,12 +1305,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YAIDS - Yara-Based IDS - Yara as an Intrusion Detection System / Yet Another Intrusion Detection System - An Intrusion Detection System (IDS) utilizing Yara and multi-threading",
+            "homepage": "https://yaids.io",
             "id": 323001463,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-20T20:15:21Z",
+            "open_issues": 4,
             "owner": "wrayjustin",
             "repo": "yaids",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "intrusion-detection",
+              "libpcap",
+              "libyara",
+              "multi-threading",
+              "network-analysis",
+              "pcap",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -880,12 +1334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository regroups the Yara Rules for the Unprotect Project",
+            "homepage": "https://unprotect.it",
             "id": 87543246,
             "language": "YARA",
+            "license": null,
             "last_commit": "2020-11-19T18:23:54Z",
+            "open_issues": 1,
             "owner": "fr0gger",
             "repo": "Yara-Unprotect",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "malware",
+              "unprotectproject",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -896,12 +1359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of curated YARA rules used as part of the Filescan.io service",
+            "homepage": null,
             "id": 641880877,
             "language": "YARA",
+            "license": null,
             "last_commit": "2026-08-27T15:34:47Z",
+            "open_issues": 0,
             "owner": "filescanio",
             "repo": "fsYara",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -912,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rules for detecting malware",
+            "homepage": null,
             "id": 70002675,
             "language": "YARA",
+            "license": null,
             "last_commit": "2025-09-09T18:46:09Z",
+            "open_issues": 0,
             "owner": "h3x2b",
             "repo": "yara-rules",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -928,12 +1401,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rules written by me, for free use.",
+            "homepage": null,
             "id": 374363066,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-26T09:31:56Z",
+            "open_issues": 0,
             "owner": "imp0rtp3",
             "repo": "yara-rules",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "dfir",
+              "malware-analysis",
+              "threat-intelligence",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -944,12 +1428,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of YARA rules for public use.  Built from information in intelligence profiles, dossiers and file work.",
+            "homepage": null,
             "id": 96830980,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-10T21:22:27Z",
+            "open_issues": 2,
             "owner": "CyberDefenses",
             "repo": "CDI_yara",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -960,12 +1452,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public catalog of stealer log fingerprints. Banner strings, field signatures, sanitized samples, and YARA rules for 30+ malware families including RedLine, Vidar, Lumma, StealC, and Rhadamanthys. For incident response, detection engineering, and threat intelligence research.",
+            "homepage": "https://cystack.net/data-leak-detection",
             "id": 1231682626,
             "language": "YARA",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-09T12:22:08Z",
+            "open_issues": 0,
             "owner": "cystack",
             "repo": "stealer-fingerprints",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cti",
+              "cybersecurity",
+              "incident-response",
+              "info-steal",
+              "infostealers",
+              "ioc",
+              "lumma-stealer",
+              "malware-analysis",
+              "malware-detection",
+              "malware-samples",
+              "mitre-attack",
+              "redline",
+              "rhadamanthys",
+              "security-research",
+              "stealer-log-parser",
+              "threat-intelligence",
+              "vidar-stealer",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -976,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rules for quick reverse engineering of malware. ",
+            "homepage": null,
             "id": 47675349,
             "language": null,
+            "license": null,
             "last_commit": "2015-12-09T07:23:11Z",
+            "open_issues": 0,
             "owner": "VectraThreatLab",
             "repo": "reyara",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -992,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Listing of YARA rules I wrote for Live and Retro hunts. Includes Jupyter infostealer, suspicious powershell, dll hijacking, vbs downloaders and maldocs.",
+            "homepage": "https://blog.lukeacha.com/",
             "id": 330242405,
             "language": "YARA",
+            "license": null,
             "last_commit": "2026-06-26T15:27:19Z",
+            "open_issues": 2,
             "owner": "securitymagic",
             "repo": "yara",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1008,12 +1535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of public Yara rules",
+            "homepage": null,
             "id": 27077879,
             "language": "YARA",
+            "license": null,
             "last_commit": "2019-04-29T04:03:00Z",
+            "open_issues": 0,
             "owner": "jipegit",
             "repo": "yara-rules-public",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1024,12 +1556,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of yara rules that I created during analysis / for blog posts",
+            "homepage": "https://dissectingmalwa.re",
             "id": 328195930,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2022-03-03T11:18:35Z",
+            "open_issues": 0,
             "owner": "f0wl",
             "repo": "yara_rules",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "malware-analysis",
+              "reverse-engineering",
+              "threat-intelligence",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1040,12 +1582,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of Yara Rules created by TjNel",
+            "homepage": null,
             "id": 104823178,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2019-05-13T15:30:47Z",
+            "open_issues": 0,
             "owner": "tjnel",
             "repo": "yara_repo",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "malware-analysis",
+              "malware-research",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1056,12 +1608,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA + Sigma detection rules and IOCs for Operation Epic Fury — Iranian APT dual-platform campaign 2026",
+            "homepage": "https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/",
             "id": 1183651015,
             "language": "YARA",
+            "license": null,
             "last_commit": "2026-03-16T21:07:49Z",
+            "open_issues": 0,
             "owner": "paolocostanzo",
             "repo": "operation-epic-fury-rules",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "apt",
+              "detection-engineering",
+              "ioc",
+              "malware-analysis",
+              "osint",
+              "sigma-rules",
+              "threat-intelligence",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         }
@@ -1078,12 +1644,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+            "homepage": "https://www.misp-project.org/",
             "id": 8077402,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T13:08:05Z",
+            "open_issues": 2899,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6490
+            "stars": 6490,
+            "topics": [
+              "cti",
+              "cybersecurity",
+              "fraud-detection",
+              "fraud-management",
+              "fraud-prevention",
+              "information-exchange",
+              "information-security",
+              "information-sharing",
+              "intelligence",
+              "malware-analysis",
+              "misp",
+              "security",
+              "stix",
+              "threat-analysis",
+              "threat-hunting",
+              "threat-intel",
+              "threat-intelligence",
+              "threat-intelligence-platform",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1094,12 +1686,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Malware Configuration And Payload Extraction",
+            "homepage": "https://capesandbox.com/analysis/",
             "id": 215366713,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T12:10:57Z",
+            "open_issues": 58,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3454
+            "stars": 3454,
+            "topics": [
+              "cape",
+              "configs",
+              "debugging-tools",
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "reverse-engineering",
+              "sandbox",
+              "unpacking"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1110,12 +1717,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android",
+            "homepage": null,
             "id": 61825895,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T17:35:45Z",
+            "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2566
+            "stars": 2566,
+            "topics": [
+              "android",
+              "android-protect-apps",
+              "android-protection",
+              "antivirus",
+              "appshielding",
+              "machine-learning",
+              "malware-analysis",
+              "malware-detection",
+              "malware-research",
+              "obfuscation",
+              "packers",
+              "rasp",
+              "yara",
+              "yara-forensics"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1126,12 +1753,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your Everyday Threat Intelligence",
+            "homepage": "https://yeti-platform.io/",
             "id": 47927876,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:35:09Z",
+            "open_issues": 49,
             "owner": "yeti-platform",
             "repo": "yeti",
-            "stars": 2020
+            "stars": 2020,
+            "topics": [
+              "dfir",
+              "enrichment",
+              "infosec",
+              "intelligence",
+              "threat-hunting",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1142,12 +1782,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yarGen is a generator for YARA rules",
+            "homepage": null,
             "id": 15494190,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-10T15:02:41Z",
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1811
+            "stars": 1811,
+            "topics": [
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "malwareanalysis",
+              "python",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1158,12 +1810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IDA pro plugin to find crypto constants (and more)",
+            "homepage": null,
             "id": 85597523,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-19T11:36:18Z",
+            "open_issues": 10,
             "owner": "polymorf",
             "repo": "findcrypt-yara",
-            "stars": 1735
+            "stars": 1735,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1174,12 +1831,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.",
+            "homepage": "https://binaryalert.io",
             "id": 97053386,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-12T18:28:30Z",
+            "open_issues": 43,
             "owner": "airbnb",
             "repo": "binaryalert",
-            "stars": 1455
+            "stars": 1455,
+            "topics": [
+              "aws",
+              "lambda",
+              "malware-detection",
+              "security",
+              "serverless",
+              "terraform",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1190,12 +1860,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍",
+            "homepage": "https://deepfence.io/",
             "id": 498618531,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-07T16:56:26Z",
+            "open_issues": 6,
             "owner": "deepfence",
             "repo": "YaraHunter",
-            "stars": 1320
+            "stars": 1320,
+            "topics": [
+              "ci-cd",
+              "devsecops",
+              "devsecops-best-practices",
+              "devsecops-pipeline",
+              "hacktoberfest",
+              "ioc",
+              "malware",
+              "threat-hunting",
+              "yara",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1206,12 +1892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scanning pastebin with yara rules",
+            "homepage": null,
             "id": 102218565,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-10T06:36:10Z",
+            "open_issues": 21,
             "owner": "kevthehermit",
             "repo": "PasteHunter",
-            "stars": 1138
+            "stars": 1138,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1222,12 +1913,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time, container-based file scanning at enterprise scale",
+            "homepage": null,
             "id": 149654117,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T18:34:03Z",
+            "open_issues": 14,
             "owner": "target",
             "repo": "strelka",
-            "stars": 1000
+            "stars": 1000,
+            "topics": [
+              "cfc",
+              "detection",
+              "golang",
+              "python3",
+              "security",
+              "target-cfc",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1238,12 +1942,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract and aggregate threat intelligence.",
+            "homepage": "https://inquest.readthedocs.io/projects/threatingestor/",
             "id": 102033255,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-26T15:01:24Z",
+            "open_issues": 15,
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "dfir",
+              "fraud-detection",
+              "indicators-of-compromise",
+              "intelligence-gathering",
+              "ioc",
+              "malware-research",
+              "misp",
+              "osint",
+              "security-tools",
+              "soar",
+              "threat-analysis",
+              "threat-feeds",
+              "threat-hunting",
+              "threat-intelligence",
+              "threat-intelligence-platform",
+              "threat-sharing",
+              "threatintel",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1259,24 +1987,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laika BOSS: Object Scanning System",
+                "homepage": null,
                 "id": 37327577,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-16T13:39:29Z",
+                "open_issues": 26,
                 "owner": "lmco",
                 "repo": "laikaboss",
-                "stars": 753
+                "stars": 753,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:22.235Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Laika BOSS: Object Scanning System",
+            "homepage": null,
             "id": 37327577,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-16T13:39:29Z",
+            "open_issues": 26,
             "owner": "lmco",
             "repo": "laikaboss",
-            "stars": 753
+            "stars": 753,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1287,12 +2025,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaspersky's GReAT KLara",
+            "homepage": "https://great.kaspersky.com",
             "id": 124286751,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-24T14:46:03Z",
+            "open_issues": 10,
             "owner": "KasperskyLab",
             "repo": "klara",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "klara",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1303,12 +2051,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#supply #chain #attack #detection",
+            "homepage": null,
             "id": 753881685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:42:51Z",
+            "open_issues": 8,
             "owner": "chainguard-dev",
             "repo": "malcontent",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "binary",
+              "linux",
+              "macos",
+              "malware-analysis",
+              "no-ghaudit-default-permissions",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1319,12 +2079,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular file scanning/analysis framework",
+            "homepage": "http://multiscanner.readthedocs.io/",
             "id": 33875018,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-08T14:12:14Z",
+            "open_issues": 39,
             "owner": "mitre",
             "repo": "multiscanner",
-            "stars": 621
+            "stars": 621,
+            "topics": [
+              "analysis-framework",
+              "analytic-machines",
+              "antivirus",
+              "cuckoo",
+              "linux",
+              "malware",
+              "malware-analysis",
+              "malware-analyzer",
+              "malware-research",
+              "metadata",
+              "python",
+              "python-script",
+              "scanning",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1335,12 +2115,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defanged Indicator of Compromise (IOC) Extractor.",
+            "homepage": "https://inquest.readthedocs.io/projects/iocextract/",
             "id": 129942209,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-28T16:04:18Z",
+            "open_issues": 2,
             "owner": "pedramamini",
             "repo": "iocextract",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "base64",
+              "decoding",
+              "defang",
+              "dfir",
+              "indicators-of-compromise",
+              "ioc",
+              "ioc-extractor",
+              "library",
+              "malware-research",
+              "osint",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1351,12 +2151,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volatility plugin for extracts configuration data of known malware",
+            "homepage": null,
             "id": 182596189,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-22T05:43:15Z",
+            "open_issues": 4,
             "owner": "JPCERTCC",
             "repo": "MalConfScan",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "forensics",
+              "malware",
+              "memory",
+              "python",
+              "security",
+              "volatility"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1367,12 +2179,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source cross-platform endpoint detection engine for Windows, macOS, and Linux using ETW, ESF, eBPF, Sigma, YARA, IOCs, and ECS NDJSON alerts.",
+            "homepage": "https://docs.rustinel.io",
             "id": 1146898804,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:45:19Z",
+            "open_issues": 63,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 458
+            "stars": 458,
+            "topics": [
+              "blue-team",
+              "detection-engineering",
+              "ebpf",
+              "edr",
+              "endpoint-detection",
+              "endpoint-security",
+              "etw",
+              "incident-response",
+              "linux",
+              "linux-security",
+              "malware-detection",
+              "rust",
+              "security-monitoring",
+              "security-tools",
+              "siem",
+              "sigma",
+              "sysmon",
+              "threat-detection",
+              "windows-security",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1383,12 +2221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA malware query accelerator (web frontend)",
+            "homepage": null,
             "id": 133830188,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-03T10:43:46Z",
+            "open_issues": 26,
             "owner": "CERT-Polska",
             "repo": "mquery",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "database",
+              "malware",
+              "security-automation",
+              "security-tools",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1399,12 +2248,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A YARA-integrated process denial framework for Windows",
+            "homepage": null,
             "id": 62661285,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-02-15T00:44:19Z",
+            "open_issues": 8,
             "owner": "godaddy",
             "repo": "procfilter",
-            "stars": 399
+            "stars": 399,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1415,12 +2269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incident Response & Digital Forensics Debugging Extension",
+            "homepage": "https://www.comae.com",
             "id": 28253119,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2018-12-11T04:24:36Z",
+            "open_issues": 2,
             "owner": "MagnetForensics",
             "repo": "SwishDbgExt",
-            "stars": 399
+            "stars": 399,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1431,12 +2290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara Rule Analyzer and Statistics",
+            "homepage": null,
             "id": 37554615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-19T21:18:08Z",
+            "open_issues": 2,
             "owner": "Neo23x0",
             "repo": "yarAnalyzer",
-            "stars": 397
+            "stars": 397,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1447,12 +2311,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source framework for enterprise level automated analysis.",
+            "homepage": "https://stoq.punchcyber.com",
             "id": 46459609,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-27T19:44:32Z",
+            "open_issues": 4,
             "owner": "PUNCH-Cyber",
             "repo": "stoq",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "automation-framework",
+              "framework",
+              "malware-analysis",
+              "malware-analyzer",
+              "malware-detection",
+              "malware-research",
+              "security-automation",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1463,12 +2341,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go bindings for YARA",
+            "homepage": null,
             "id": 29797862,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-07-01T21:12:18Z",
+            "open_issues": 7,
             "owner": "hillu",
             "repo": "go-yara",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "cgo",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1479,12 +2368,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collaborative malware analysis framework",
+            "homepage": null,
             "id": 60115234,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-22T13:48:17Z",
+            "open_issues": 21,
             "owner": "ANSSI-FR",
             "repo": "polichombr",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "ida",
+              "ida-plugin",
+              "idapro",
+              "malware-analysis",
+              "malware-research",
+              "reverse-engineering",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1495,12 +2397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic Yara Rule Generation",
+            "homepage": "https://yaragenerator.com",
             "id": 9857154,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-02-02T13:49:21Z",
+            "open_issues": 3,
             "owner": "Xen0ph0n",
             "repo": "YaraGenerator",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1511,12 +2418,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara integrated software to handle archive file data.",
+            "homepage": null,
             "id": 23209101,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-05-09T10:38:35Z",
+            "open_issues": 11,
             "owner": "BayshoreNetworks",
             "repo": "yextend",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "yara",
+              "yara-integrated"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1527,12 +2442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Yara Automaton - Automatically curate open source yara rules and run scans",
+            "homepage": null,
             "id": 273359281,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-27T15:11:36Z",
+            "open_issues": 9,
             "owner": "EFForg",
             "repo": "yaya",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1543,12 +2463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pattern Extractor for Obfuscated Code",
+            "homepage": null,
             "id": 158104982,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-12T09:34:10Z",
+            "open_issues": 1,
             "owner": "Neo23x0",
             "repo": "Fnord",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1559,12 +2484,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File Scanning Framework",
+            "homepage": null,
             "id": 40277722,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-15T20:04:45Z",
+            "open_issues": 17,
             "owner": "EmersonElectricCo",
             "repo": "fsf",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "file-analysis",
+              "file-analyzer",
+              "network-defense",
+              "security-tools",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1575,12 +2511,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate AV byte signatures from sets of similar binaries.",
+            "homepage": null,
             "id": 187165583,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T07:57:11Z",
+            "open_issues": 5,
             "owner": "google",
             "repo": "vxsig",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "antivirus",
+              "bindiff",
+              "binexport",
+              "c-plus-plus",
+              "disassembly",
+              "lcs-algorithm",
+              "signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1591,12 +2540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arya is a unique tool that produces pseudo-malicious files meant to trigger YARA rules. You can think of it like a reverse YARA.",
+            "homepage": null,
             "id": 469688461,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-27T19:30:43Z",
+            "open_issues": 1,
             "owner": "claroty",
             "repo": "arya",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1607,12 +2561,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incident Response - Fast suspicious file finder",
+            "homepage": null,
             "id": 433206490,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-24T14:23:55Z",
+            "open_issues": 0,
             "owner": "codeyourweb",
             "repo": "fastfinder",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "dfir",
+              "incident-response",
+              "investigation",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1623,12 +2587,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara rule making tool (IDA Pro & Binary Ninja & Cutter & Ghidra Plugin)",
+            "homepage": null,
             "id": 138730348,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-18T14:27:33Z",
+            "open_issues": 9,
             "owner": "hyuunnn",
             "repo": "Hyara",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "binaryninja",
+              "binaryninja-plugin",
+              "cutter",
+              "cutter-plugin",
+              "ghidra",
+              "ghidra-extension",
+              "ghidra-plugin",
+              "ida",
+              "ida-plugin",
+              "idapro",
+              "idapython",
+              "idapython-plugin",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1639,12 +2623,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sysmon EDR POC Build within Powershell to prove ability.",
+            "homepage": null,
             "id": 344969846,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2021-05-01T02:41:53Z",
+            "open_issues": 1,
             "owner": "ion-storm",
             "repo": "sysmon-edr",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "edr",
+              "sysmon",
+              "sysmon-edr"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1655,12 +2648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating YARA rules based on binary code",
+            "homepage": null,
             "id": 178205616,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-07T08:45:57Z",
+            "open_issues": 10,
             "owner": "fox-it",
             "repo": "mkYARA",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1671,12 +2669,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatically create YARA rules from malicious documents. ",
+            "homepage": null,
             "id": 308738214,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-16T21:17:53Z",
+            "open_issues": 1,
             "owner": "target",
             "repo": "halogen",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "cfc",
+              "detection",
+              "security",
+              "target-cfc"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1687,12 +2695,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django web interface for managing Yara rules",
+            "homepage": null,
             "id": 76906245,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-28T14:19:53Z",
+            "open_issues": 9,
             "owner": "PUNCH-Cyber",
             "repo": "YaraGuardian",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "manager",
+              "metrics",
+              "rules",
+              "yara",
+              "yara-manager",
+              "yara-metrics",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1703,12 +2724,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse YARA rules and operate over them more easily.",
+            "homepage": null,
             "id": 136099441,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-06T22:35:55Z",
+            "open_issues": 17,
             "owner": "plyara",
             "repo": "plyara",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "lex",
+              "lexer",
+              "parser",
+              "ply",
+              "python",
+              "python3",
+              "sly",
+              "yacc",
+              "yara",
+              "yara-parser",
+              "yara-rules",
+              "yara-x"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1719,12 +2758,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple YARA-based IOC scanner",
+            "homepage": null,
             "id": 135199430,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-17T19:45:46Z",
+            "open_issues": 13,
             "owner": "spyre-project",
             "repo": "spyre",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "incident-response",
+              "ioc",
+              "linux",
+              "macos",
+              "macosx",
+              "scanner",
+              "security",
+              "windows",
+              "yara",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1735,12 +2793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic YARA rule generation for Malpedia",
+            "homepage": null,
             "id": 158678709,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-08T00:59:43Z",
+            "open_issues": 5,
             "owner": "fxb-cocacoding",
             "repo": "yara-signator",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1751,12 +2814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Yara rule generator for finding related samples and hunting",
+            "homepage": null,
             "id": 102598791,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-11T13:17:43Z",
+            "open_issues": 4,
             "owner": "AlienVault-OTX",
             "repo": "yabin",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1767,12 +2835,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visually inspect and force decode YARA and regex matches found in both binary and text data with colors. Lots of colors.",
+            "homepage": null,
             "id": 544562040,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-01T03:33:41Z",
+            "open_issues": 1,
             "owner": "michelcrypt4d4mus",
             "repo": "yaralyzer",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "blueteam",
+              "dfir",
+              "hacking-tool",
+              "malware",
+              "malware-analysis",
+              "malware-detection",
+              "netsec",
+              "netsec-tools",
+              "reverse-engineering",
+              "visualization",
+              "yara",
+              "yara-forensics",
+              "yara-format",
+              "yara-integrated",
+              "yara-rules",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1783,12 +2873,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CrowdStrike Feed Management System. CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system. This framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed.",
+            "homepage": null,
             "id": 15086898,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-11-13T02:41:35Z",
+            "open_issues": 2,
             "owner": "CrowdStrike",
             "repo": "CrowdFMS",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1799,12 +2894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsing of YARA rules into AST and building new rulesets in C++.",
+            "homepage": null,
             "id": 113992549,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-23T11:21:23Z",
+            "open_issues": 36,
             "owner": "avast",
             "repo": "yaramod",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1815,12 +2915,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA rule metadata specification and validation utility / Spécification et validation pour les règles YARA",
+            "homepage": null,
             "id": 228680159,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T18:24:11Z",
+            "open_issues": 4,
             "owner": "CybercentreCanada",
             "repo": "CCCS-Yara",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "assemblyline",
+              "yara",
+              "yara-format"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1831,12 +2940,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara-Endpoint is a tool useful for incident response as well as anti-malware enpoint base on Yara signatures.",
+            "homepage": "https://yararules.com",
             "id": 109496710,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-13T22:15:23Z",
+            "open_issues": 5,
             "owner": "Yara-Rules",
             "repo": "yara-endpoint",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "anti-malware",
+              "endpoint",
+              "incident-response",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1847,12 +2966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process HTTP Pcaps With YARA",
+            "homepage": null,
             "id": 11055079,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-07-29T20:11:40Z",
+            "open_issues": 1,
             "owner": "kevthehermit",
             "repo": "YaraPcap",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1863,12 +2987,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL) (ALPHA STATE AT THE MOMENT)",
+            "homepage": null,
             "id": 98370220,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-12T21:19:12Z",
+            "open_issues": 42,
             "owner": "InQuest",
             "repo": "ThreatKB",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "malware-research",
+              "yara",
+              "yara-manager",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1879,12 +3014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SAFE embeddings to match functions in yara",
+            "homepage": null,
             "id": 178863267,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-25T13:49:46Z",
+            "open_issues": 1,
             "owner": "lucamassarelli",
             "repo": "yarasafe",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1895,12 +3035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 272239531,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-07T11:35:35Z",
+            "open_issues": 0,
             "owner": "arieljt",
             "repo": "VTCodeSimilarity-YaraGen",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1911,12 +3056,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARI is an interactive debugger for YARA Language.",
+            "homepage": "https://avast.github.io/yls/",
             "id": 531431071,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-09-10T13:36:41Z",
+            "open_issues": 13,
             "owner": "avast",
             "repo": "yari",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "avast",
+              "debugger",
+              "python3",
+              "rust",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1927,12 +3083,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.",
+            "homepage": null,
             "id": 124838255,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-05T21:14:39Z",
+            "open_issues": 1,
             "owner": "Northern-Lights",
             "repo": "yara-parser",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "detection",
+              "go",
+              "golang",
+              "grammar",
+              "json",
+              "lexer",
+              "ruleset",
+              "security",
+              "security-tools",
+              "signatures",
+              "yara",
+              "yara-parser",
+              "yara-ruleset"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1943,12 +3118,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust bindings for VirusTotal/Yara",
+            "homepage": null,
             "id": 133056840,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T11:08:54Z",
+            "open_issues": 17,
             "owner": "Hugal31",
             "repo": "yara-rust",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "pattern-matching",
+              "rust",
+              "rust-bindings",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1959,12 +3144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Yara Rule generation using Biclustering ",
+            "homepage": null,
             "id": 292988432,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-08T19:24:49Z",
+            "open_issues": 3,
             "owner": "FutureComputing4AI",
             "repo": "AutoYara",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1975,12 +3165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a machine.",
+            "homepage": "https://circl.github.io/factual-rules-generator/",
             "id": 366386288,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-01-18T10:05:51Z",
+            "open_issues": 1,
             "owner": "CIRCL",
             "repo": "factual-rules-generator",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "computer-forensics",
+              "dfir",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -1991,12 +3191,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA Language Server",
+            "homepage": "https://avast.github.io/yls/",
             "id": 501200658,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-03T16:58:49Z",
+            "open_issues": 26,
             "owner": "avast",
             "repo": "yls",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "avast",
+              "lsp-server",
+              "python3",
+              "vscode",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2007,12 +3218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create an entire YARA rule via Python? Whhhhhhaatttt?",
+            "homepage": null,
             "id": 33581060,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-12T07:41:52Z",
+            "open_issues": 7,
             "owner": "matonis",
             "repo": "yara_tools",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2023,12 +3239,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple yara rule manager",
+            "homepage": null,
             "id": 351585188,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-27T17:39:10Z",
+            "open_issues": 3,
             "owner": "3c7",
             "repo": "yaramanager",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "cli",
+              "sqlite",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2039,12 +3264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another YARA rule Generator",
+            "homepage": null,
             "id": 144095095,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-10-09T15:14:11Z",
+            "open_issues": 1,
             "owner": "jimmy-sonny",
             "repo": "YaYaGen",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2055,12 +3285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Fast and lightweight malware scanner written in go.",
+            "homepage": "https://defended.net/malwatch",
             "id": 931268048,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-25T15:07:34Z",
+            "open_issues": 0,
             "owner": "defended-net",
             "repo": "malwatch",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "go",
+              "linux",
+              "malware",
+              "scanner",
+              "security",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2071,12 +3313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This script scans the files extracted by Zeek with YARA rules located on the rules folder on a Linux based Zeek sensor, if there is a match it sends email alerts to the email address specified in the mailTo parameter on yaraAlert.conf file. The alert includes network context of the file transfer and attaches the suspicious file if it is less than 10 MB. Alerted files are copied locally to the alerted files folder.",
+            "homepage": null,
             "id": 199719958,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-16T22:44:38Z",
+            "open_issues": 2,
             "owner": "SCILabsMX",
             "repo": "yaraZeekAlert",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2087,12 +3334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository that contains a set of purposefully erroneous Yara rules.",
+            "homepage": null,
             "id": 551559577,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2025-07-23T10:37:40Z",
+            "open_issues": 0,
             "owner": "bartblaze",
             "repo": "FARA",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "yara",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2103,12 +3359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET wrapper for libyara built in C++ CLI used to easily incorporate yara into .NET projects",
+            "homepage": null,
             "id": 61913596,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-08T17:22:07Z",
+            "open_issues": 6,
             "owner": "microsoft",
             "repo": "libyara.NET",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2119,12 +3380,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ICAP Server with yara scanner for URL and content.",
+            "homepage": null,
             "id": 81106150,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-19T09:50:37Z",
+            "open_issues": 0,
             "owner": "RamadhanAmizudin",
             "repo": "python-icap-yara",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "icap",
+              "icap-server",
+              "malware-analysis",
+              "python",
+              "squid-proxy",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2135,12 +3408,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web based Manager for Yara Rules",
+            "homepage": null,
             "id": 31928716,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2020-03-09T07:40:04Z",
+            "open_issues": 1,
             "owner": "kevthehermit",
             "repo": "YaraManager",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2151,12 +3429,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analysis of file (doc, pdf, exe, ...) in deep (emmbedded file(s)) with clamscan and yara rules",
+            "homepage": null,
             "id": 99939524,
             "language": "YARA",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-06T10:01:06Z",
+            "open_issues": 1,
             "owner": "lprat",
             "repo": "static_file_analysis",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "analysis",
+              "clamav",
+              "defensive-security",
+              "docker",
+              "malware-analysis",
+              "security",
+              "security-tools",
+              "sigma",
+              "static-analysis",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2167,12 +3462,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara Based Detection Engine for web browsers",
+            "homepage": null,
             "id": 400149335,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-05T09:05:54Z",
+            "open_issues": 0,
             "owner": "imp0rtp3",
             "repo": "Yobi",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "add-on",
+              "antivirus",
+              "dfir",
+              "firefox",
+              "javascript",
+              "malware",
+              "scanner",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2183,12 +3492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara intergrated into BurpSuite ",
+            "homepage": null,
             "id": 50512269,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-06-30T23:24:40Z",
+            "open_issues": 3,
             "owner": "PolitoInc",
             "repo": "Yara-Scanner",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2199,12 +3513,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performs OCR on image files and scans them for matches to YARA rules",
+            "homepage": "https://pypi.python.org/pypi/OCyara/",
             "id": 78153488,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-10-30T14:14:11Z",
+            "open_issues": 3,
             "owner": "bandrel",
             "repo": "OCyara",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "ocr",
+              "optical-character-recognition",
+              "python",
+              "python-3",
+              "tesseract",
+              "tesseract-ocr-api",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2215,12 +3543,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# wrapper around the Yara pattern matching library ",
+            "homepage": null,
             "id": 128645187,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-02-07T06:18:31Z",
+            "open_issues": 4,
             "owner": "stellarbear",
             "repo": "YaraSharp",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "async-scanning",
+              "csharp",
+              "libyara",
+              "net",
+              "wrapper",
+              "wrapper-api",
+              "wrapper-library",
+              "yara",
+              "yara-forensics",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2231,12 +3575,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validates yara rules and tries to repair the broken ones.",
+            "homepage": null,
             "id": 101896514,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-05T04:57:43Z",
+            "open_issues": 0,
             "owner": "CIRCL",
             "repo": "yara-validator",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "dfir",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2247,12 +3600,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a Yara rule to find base64-encoded files containg a specific keyword",
+            "homepage": null,
             "id": 140789735,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-13T13:46:08Z",
+            "open_issues": 1,
             "owner": "DissectMalware",
             "repo": "base64_substring",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "base64",
+              "python3",
+              "search-in-base64",
+              "yara",
+              "yara-rule-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2263,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-platform .Net wrapper library for the native Yara library. ",
+            "homepage": null,
             "id": 183580327,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-30T13:22:13Z",
+            "open_issues": 6,
             "owner": "airbus-cert",
             "repo": "dnYara",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2279,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 442144537,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-24T20:14:06Z",
+            "open_issues": 0,
             "owner": "DissectMalware",
             "repo": "yaradbg-frontend",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2295,12 +3669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Work Fast With the pattern matching swiss knife for malware researchers.",
+            "homepage": null,
             "id": 41439315,
             "language": null,
+            "license": null,
             "last_commit": "2016-03-26T14:15:28Z",
+            "open_issues": 0,
             "owner": "techbliss",
             "repo": "Yara_Mailware_Quick_menu_scanner",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2311,12 +3690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for x64dbg to generate Yara rules from function basic blocks.",
+            "homepage": null,
             "id": 102214734,
             "language": "C",
+            "license": null,
             "last_commit": "2017-09-02T18:10:06Z",
+            "open_issues": 0,
             "owner": "mrexodia",
             "repo": "YaraGen",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2327,12 +3711,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara station is a management portal for Neo23x0-Loki. The mission is to transform the standalone nature of the Loki scanner into a centralized management solution that facilitates result investigation and easier scanning capabilities.",
+            "homepage": null,
             "id": 448500325,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-01T16:59:55Z",
+            "open_issues": 1,
             "owner": "NumLocK15",
             "repo": "YaraStation",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "loki",
+              "yara-rules",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2343,12 +3736,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serverless, real-time, ClamAV+Yara scanning for your S3 Buckets",
+            "homepage": null,
             "id": 213551978,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-14T05:46:19Z",
+            "open_issues": 17,
             "owner": "abhinavbom",
             "repo": "clara",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "clamav",
+              "malware-analysis",
+              "malware-analyzer",
+              "malware-detection",
+              "s3-bucket",
+              "s3-storage",
+              "yara",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2359,12 +3766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Misc Tools for Virus Total Interaction",
+            "homepage": null,
             "id": 9972980,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-02T21:24:33Z",
+            "open_issues": 0,
             "owner": "silascutler",
             "repo": "VirusTotalTools",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2375,12 +3787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event Log Analysis Tools",
+            "homepage": null,
             "id": 23974381,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-09-27T20:15:06Z",
+            "open_issues": 0,
             "owner": "reed1713",
             "repo": "ELAT",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2391,12 +3808,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to help malware analysts signature unique parts of RTF documents",
+            "homepage": null,
             "id": 296955451,
             "language": "Rich Text Format",
+            "license": null,
             "last_commit": "2026-01-05T22:50:22Z",
+            "open_issues": 0,
             "owner": "PwCUK-CTO",
             "repo": "rtfsig",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "malware-analysis",
+              "python",
+              "rtf-files",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2407,12 +3834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another rule generator for Yara",
+            "homepage": null,
             "id": 284259445,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-06T06:06:56Z",
+            "open_issues": 0,
             "owner": "immortalp0ny",
             "repo": "yarg",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2423,12 +3855,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script to collect (the most famous) Yara rules from more than 150 free resources.  Free alternative to: https://valhalla.nextron-systems.com/",
+            "homepage": null,
             "id": 295949768,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-08-26T08:27:31Z",
+            "open_issues": 0,
             "owner": "Fadavvi",
             "repo": "Yara-Repo",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "blueteam",
+              "blueteaming",
+              "threat-hunting",
+              "threat-intelligence",
+              "threatintel",
+              "yara",
+              "yara-forensics",
+              "yara-rules",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2439,12 +3886,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IDA Processor for Compiled YARA Rules",
+            "homepage": null,
             "id": 166248707,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-22T14:27:35Z",
+            "open_issues": 0,
             "owner": "bnbdr",
             "repo": "ida-yara-processor",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "disassembler",
+              "ida",
+              "idapython-plugin",
+              "yara",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2455,12 +3913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara Scanner For IMAP Feeds and saved Streams",
+            "homepage": null,
             "id": 9570824,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-05T13:04:47Z",
+            "open_issues": 2,
             "owner": "kevthehermit",
             "repo": "yaraMail",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2471,12 +3934,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic generation of YARA rules from sample files.",
+            "homepage": "https://yara-silly-silly.github.io/yarasilly2/",
             "id": 268165710,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-10T18:14:56Z",
+            "open_issues": 45,
             "owner": "YARA-Silly-Silly",
             "repo": "yarasilly2",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "hacktoberfest",
+              "jinja2",
+              "python3",
+              "yara",
+              "yara-forensics",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2487,12 +3962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 441843493,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-08T23:16:09Z",
+            "open_issues": 0,
             "owner": "DissectMalware",
             "repo": "yaradbg-backend",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2503,12 +3983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang based web service to scan files with yara rules",
+            "homepage": null,
             "id": 70412926,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-07-06T23:47:32Z",
+            "open_issues": 2,
             "owner": "jheise",
             "repo": "yarascanner",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2519,12 +4004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python script that can be used to scan data within in an IDB using Yara.",
+            "homepage": null,
             "id": 144522187,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-04T17:25:35Z",
+            "open_issues": 0,
             "owner": "alexander-hanel",
             "repo": "ida_yara",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2535,12 +4025,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi Cloud Antivirus Scanning API using YARA and CLAMAV for AWS S3, Azure Blob Storage and GCP Cloud Storage",
+            "homepage": null,
             "id": 402105028,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-09-01T02:24:54Z",
+            "open_issues": 5,
             "owner": "cloudina",
             "repo": "hawk",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "antivirus",
+              "api-rest",
+              "aws",
+              "azure",
+              "azure-blob-storage",
+              "clamav-antivirus",
+              "clamav-scanning",
+              "cloud",
+              "cloudsecurity",
+              "gcp",
+              "gcp-cloud-storage",
+              "infosec",
+              "rest-api",
+              "s3scanner",
+              "security",
+              "security-tools",
+              "virus-scanner",
+              "virus-scanning",
+              "yara",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2551,12 +4067,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate bulk YARA rules from YAML input",
+            "homepage": "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/may/tool-release-yaml2yara/",
             "id": 120642291,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2020-02-03T13:21:42Z",
+            "open_issues": 0,
             "owner": "nccgroup",
             "repo": "yaml2yara",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "yaml",
+              "yara",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2567,12 +4092,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit Node Module folder with YARA rules to identify possible malicious packages hiding in node_moudles",
+            "homepage": null,
             "id": 350437182,
             "language": "YARA",
+            "license": null,
             "last_commit": "2021-03-24T10:29:49Z",
+            "open_issues": 0,
             "owner": "rpgeeganage",
             "repo": "audit-node-modules-with-yara",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "malware-analysis",
+              "node-js",
+              "node-module",
+              "node-security",
+              "node-security-program",
+              "nodejs",
+              "nodesecurity",
+              "static-analysis",
+              "yara-forensics",
+              "yara-rules",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2583,12 +4125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 376716300,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-08-25T07:26:42Z",
+            "open_issues": 0,
             "owner": "k-sec-tools",
             "repo": "ExchangeFilter",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2599,12 +4146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python wrapper library for libyara and a local server for fully utilizing the CPUs of the system to scan with yara...with additional capabilities.",
+            "homepage": null,
             "id": 240924622,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-08T13:44:01Z",
+            "open_issues": 2,
             "owner": "ace-ecosystem",
             "repo": "yara_scanner",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2615,12 +4167,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts Sigma, Yara rules and IOCs",
+            "homepage": null,
             "id": 601466810,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-26T08:15:00Z",
+            "open_issues": 1,
             "owner": "mtnmunuklu",
             "repo": "alterix",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cognitive-siem",
+              "crypttech",
+              "csiem",
+              "demo",
+              "docker",
+              "go",
+              "golang",
+              "ioc",
+              "sigma",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2631,12 +4199,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular command-line threat hunting tool & framework.",
+            "homepage": null,
             "id": 140967394,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-20T16:56:25Z",
+            "open_issues": 0,
             "owner": "sk4la",
             "repo": "plast",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "apt",
+              "digital-forensics",
+              "framework",
+              "incident-response",
+              "ioc",
+              "python",
+              "python3",
+              "threat-hunting",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2647,12 +4230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a-ray-grass is a yara module that provides support for DCSO-format bloom filters in yara. In the context of hashlookup, it allows quickly discard known files \"pour séparer le grain de l'ivraie\"",
+            "homepage": null,
             "id": 516730448,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-08-19T13:01:49Z",
+            "open_issues": 1,
             "owner": "hashlookup",
             "repo": "a-ray-grass",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bloom-filter",
+              "filter",
+              "yara",
+              "yara-module"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2663,12 +4256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA support for Node.js",
+            "homepage": null,
             "id": 97223688,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-05-19T12:25:03Z",
+            "open_issues": 3,
             "owner": "nospaceships",
             "repo": "node-yara",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2679,12 +4277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA Rule Strings Statistics Calculator and Malware Research Helper",
+            "homepage": null,
             "id": 342247079,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-24T17:20:28Z",
+            "open_issues": 0,
             "owner": "Sh3llyR",
             "repo": "statiStrings",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2695,12 +4298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run YARA rules on process memory and execute Python scripts on matches",
+            "homepage": null,
             "id": 133257927,
             "language": "C",
+            "license": null,
             "last_commit": "2018-05-15T17:46:10Z",
+            "open_issues": 0,
             "owner": "usualsuspect",
             "repo": "malscan",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2711,12 +4319,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara sort",
+            "homepage": null,
             "id": 217628673,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2026-08-01T21:05:22Z",
+            "open_issues": 0,
             "owner": "horsicq",
             "repo": "YARA-sort",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "yara",
+              "yara-parser",
+              "yara-signatures"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2727,12 +4344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 156281920,
             "language": "C",
+            "license": null,
             "last_commit": "2022-10-21T12:23:53Z",
+            "open_issues": 1,
             "owner": "stoerchl",
             "repo": "yara_zip_module",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2743,12 +4365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IDA Python scripts",
+            "homepage": null,
             "id": 39315917,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2017-11-02T06:19:49Z",
+            "open_issues": 1,
             "owner": "swackhamer",
             "repo": "IDA_scripts",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2759,12 +4386,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidence-focused malware reverse engineering with deep PE/.NET inspection, Ghidra reconstruction, AI cross-checks, YARA, and ELF debugging",
+            "homepage": "https://1200km.com/articles/read/2026/2026-08-10-pe-file-structure-for-malware-analysis-d93acb97d9f3/",
             "id": 1181745997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T16:57:54Z",
+            "open_issues": 0,
             "owner": "anpa1200",
             "repo": "AIDebug",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "ai-security",
+              "analyst-tools",
+              "capstone",
+              "debugger",
+              "detection-engineering",
+              "dotnet-analysis",
+              "dynamic-analysis",
+              "frida",
+              "ghidra",
+              "malware-analysis",
+              "malware-research",
+              "malware-triage",
+              "mitre-attack",
+              "pe-format",
+              "portable-executable",
+              "python",
+              "reverse-engineering",
+              "static-analysis",
+              "threat-hunting",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2775,12 +4428,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OCaml bindings for YARA",
+            "homepage": null,
             "id": 125844424,
             "language": "OCaml",
+            "license": null,
             "last_commit": "2019-12-10T08:20:40Z",
+            "open_issues": 2,
             "owner": "XVilka",
             "repo": "yara-ocaml",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2791,12 +4449,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Python extension to wrap the Yara process memory access API.",
+            "homepage": null,
             "id": 107556371,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-02T11:51:38Z",
+            "open_issues": 0,
             "owner": "google",
             "repo": "yara-procdump-python",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2807,12 +4470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 332009562,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-25T13:59:54Z",
+            "open_issues": 0,
             "owner": "Sh3llyR",
             "repo": "yaraScanParser",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2823,12 +4491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create base64 or XOR encoded variations of a string (or list of strings for base64)",
+            "homepage": null,
             "id": 49758889,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-29T21:52:24Z",
+            "open_issues": 0,
             "owner": "darienhuss",
             "repo": "shotgunyara",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2839,12 +4512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python 3 tool to parse Yara rules (extension of yarabuilder)",
+            "homepage": null,
             "id": 279129188,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-12T20:01:06Z",
+            "open_issues": 0,
             "owner": "BitsOfBinary",
             "repo": "yaraparser",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "python",
+              "yara",
+              "yara-parser",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2855,12 +4538,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For running Yara rules on malware samples stored in compressed files.",
+            "homepage": null,
             "id": 230471294,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-24T03:56:58Z",
+            "open_issues": 0,
             "owner": "rjzak",
             "repo": "decompressingyara",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "golang",
+              "malware",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2876,24 +4568,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java bindings for Yara",
+                "homepage": null,
                 "id": 42468419,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-05T21:54:57Z",
+                "open_issues": 6,
                 "owner": "p8a",
                 "repo": "yara-java",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:22.235Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Java bindings for Virustotal's YARA (libyara)",
+            "homepage": null,
             "id": 859478433,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-11T11:32:16Z",
+            "open_issues": 2,
             "owner": "subreption",
             "repo": "yara-java",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2904,12 +4606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Module to use Androguard with Yara",
+            "homepage": null,
             "id": 43929585,
             "language": "C",
+            "license": null,
             "last_commit": "2015-09-25T07:19:05Z",
+            "open_issues": 0,
             "owner": "MindMac",
             "repo": "androguard-yara",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2920,12 +4627,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A direct Yara/Ghidra integration, finally YARA for Ghidra without the suck!",
+            "homepage": null,
             "id": 859483000,
             "language": "YARA",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-11T11:55:41Z",
+            "open_issues": 0,
             "owner": "subreption",
             "repo": "ghidra_yara",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ghidra",
+              "reverse-engineering",
+              "signature-detection",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2936,12 +4653,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OCaml bindings to libyara",
+            "homepage": null,
             "id": 239885870,
             "language": "OCaml",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-08T19:13:16Z",
+            "open_issues": 0,
             "owner": "elastic",
             "repo": "ocaml-yara",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2952,12 +4674,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scan files with Yara and send rule matches to VirusTotal reports as comments",
+            "homepage": null,
             "id": 115439494,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-26T18:16:56Z",
+            "open_issues": 0,
             "owner": "deadbits",
             "repo": "yaraVT",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "malware-analysis",
+              "malware-research",
+              "python",
+              "virustotal",
+              "yara",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2968,12 +4702,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool designed to help writing and updating YARA rules.",
+            "homepage": null,
             "id": 454127203,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-06T16:27:19Z",
+            "open_issues": 0,
             "owner": "m0n4",
             "repo": "YARA-Matches-Correspondance-Array",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cti",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -2984,12 +4726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal library to generate YARA rules from JAVA",
+            "homepage": null,
             "id": 174000978,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-20T20:55:23Z",
+            "open_issues": 2,
             "owner": "fxb-cocacoding",
             "repo": "java2yara",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "java-8",
+              "yara",
+              "yara-format"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3000,12 +4751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 456259126,
             "language": "YARA",
+            "license": "MIT",
             "last_commit": "2022-02-07T10:03:47Z",
+            "open_issues": 0,
             "owner": "k-sec-tools",
             "repo": "YaraFileCheckerLib",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3016,12 +4772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure YARA-style pattern matching - malware signatures, hex/ascii/regex patterns",
+            "homepage": null,
             "id": 1140105588,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2026-02-27T20:20:17Z",
+            "open_issues": 0,
             "owner": "bad-antics",
             "repo": "nullsec-yara",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3037,12 +4798,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loki - Simple IOC and YARA Scanner",
+                "homepage": "https://www.nextron-systems.com/compare-our-scanners/",
                 "id": 29420337,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-12T08:00:47Z",
+                "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3786
+                "stars": 3786,
+                "topics": [
+                  "antivirus",
+                  "dfir",
+                  "hash",
+                  "ioc",
+                  "otx",
+                  "python",
+                  "scanner",
+                  "signature",
+                  "yara",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T23:31:22.235Z"
             }
@@ -3061,12 +4838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notepad++ User Defined Languages Collection",
+            "homepage": null,
             "id": 231619464,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T21:55:58Z",
+            "open_issues": 1,
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
-            "stars": 813
+            "stars": 813,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3077,12 +4859,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VSCode extension for the YARA pattern matching language",
+            "homepage": null,
             "id": 60477446,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-10T14:45:50Z",
+            "open_issues": 13,
             "owner": "infosec-intern",
             "repo": "vscode-yara",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "vscode",
+              "vscode-extension",
+              "vscode-language",
+              "vscode-snippets",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3093,12 +4886,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yara syntax highlighting",
+            "homepage": null,
             "id": 22271175,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-09-04T13:39:45Z",
+            "open_issues": 1,
             "owner": "blacktop",
             "repo": "language-yara",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3109,12 +4907,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARA package for Sublime Text",
+            "homepage": null,
             "id": 30686855,
             "language": "YARA",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-30T05:35:40Z",
+            "open_issues": 0,
             "owner": "nyx0",
             "repo": "YaraSyntax",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "sublime-text",
+              "syntax-highlighting",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3125,12 +4932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yara filetype plugin for Vim.",
+            "homepage": null,
             "id": 30015077,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2021-02-18T18:45:14Z",
+            "open_issues": 0,
             "owner": "yaunj",
             "repo": "vim-yara",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3141,12 +4953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yara-mode for GNU Emacs",
+            "homepage": null,
             "id": 6822727,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2026-07-02T01:53:12Z",
+            "open_issues": 0,
             "owner": "binjo",
             "repo": "yara-mode",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3157,12 +4974,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "YARA syntax highlighting for GTK-based text editors.",
+            "homepage": null,
             "id": 104675077,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2020-05-12T14:35:32Z",
+            "open_issues": 0,
             "owner": "wesinator",
             "repo": "GtkSourceView-YARA",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "gedit-syntax",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         }
@@ -3179,12 +5004,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+            "homepage": null,
             "id": 55076063,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:29:02Z",
+            "open_issues": 40,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119253
+            "stars": 119268,
+            "topics": [
+              "android",
+              "awesome",
+              "bug-bounty",
+              "fuzzing",
+              "hacking",
+              "penetration-testing",
+              "pentesting-windows",
+              "reverse-engineering",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3195,12 +5035,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scream: A curated list of amazingly awesome OSINT",
+            "homepage": null,
             "id": 75189212,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:17:45Z",
+            "open_issues": 9,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28617
+            "stars": 28635,
+            "topics": [
+              "awesome-list",
+              "osint",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3211,12 +5060,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+            "homepage": null,
             "id": 22585805,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
+            "open_issues": 105,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27049
+            "stars": 27049,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3227,12 +5084,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Hacking tutorials, tools and resources",
+            "homepage": null,
             "id": 28084589,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
+            "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16962
+            "stars": 16964,
+            "topics": [
+              "awesome",
+              "hacking"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3243,12 +5108,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14805
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3259,12 +5132,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+            "homepage": "https://analysis-tools.dev",
             "id": 48246447,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:40:37Z",
+            "open_issues": 11,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14752
+            "stars": 14752,
+            "topics": [
+              "analysis",
+              "awesome-list",
+              "code-quality",
+              "hacktoberfest",
+              "linter",
+              "sast",
+              "static-analysis",
+              "static-analyzers",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3275,12 +5163,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3291,12 +5204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Awesome Threat Intelligence resources",
+            "homepage": null,
             "id": 48368290,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
+            "open_issues": 117,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10581
+            "stars": 10581,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3307,12 +5230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an awesome list of honeypot resources",
+            "homepage": null,
             "id": 37659549,
             "language": "Python",
+            "license": "Artistic-2.0",
             "last_commit": "2026-06-01T14:15:45Z",
+            "open_issues": 23,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10536
+            "stars": 10537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "honeyd",
+              "honeypot",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3323,12 +5257,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of tools for incident response",
+            "homepage": null,
             "id": 45943554,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
+            "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9357
+            "stars": 9357,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "dfir",
+              "incident-response",
+              "incident-response-tooling",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3339,12 +5287,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :octocat: Machine Learning for Cyber Security",
+            "homepage": null,
             "id": 76955905,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T02:14:10Z",
+            "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9330
+            "stars": 9331,
+            "topics": [
+              "awesome-list",
+              "cyber-security",
+              "data-mining",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3355,12 +5313,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome web crawler,spider in different languages",
+            "homepage": null,
             "id": 70459317,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-16T17:03:36Z",
+            "open_issues": 41,
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7298
+            "stars": 7298,
+            "topics": [
+              "awesome",
+              "crawler",
+              "node-crawler",
+              "scraper",
+              "spider",
+              "web-crawler",
+              "web-scraper"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3371,12 +5342,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A curated list of awesome infosec courses and training resources.",
+            "homepage": null,
             "id": 35577029,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:30:27Z",
+            "open_issues": 15,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5728
+            "stars": 5728,
+            "topics": [
+              "awesome",
+              "courses",
+              "infosec",
+              "lab",
+              "penetration-testing",
+              "pentest",
+              "security",
+              "security-professionals"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3387,12 +5372,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐️ A curated list of awesome forensic analysis tools and resources",
+            "homepage": "http://cugu.github.io/awesome-forensics/",
             "id": 55009841,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-23T09:53:20Z",
+            "open_issues": 9,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5165
+            "stars": 5165,
+            "topics": [
+              "computer-forensics",
+              "dfir",
+              "digital-forensics",
+              "forensic-analysis",
+              "free",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3403,12 +5400,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
+            "homepage": "https://0x4d31.github.io/awesome-threat-detection/",
             "id": 117328645,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-05T12:27:34Z",
+            "open_issues": 54,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4711
+            "stars": 4711,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "detection",
+              "incident-response",
+              "security",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3419,12 +5429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome reversing resources",
+            "homepage": null,
             "id": 53292594,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
+            "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4513
+            "stars": 4513,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3435,12 +5450,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✍️ A curated list of CVE PoCs.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-cve-poc",
             "id": 80700387,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-04T19:07:43Z",
+            "open_issues": 2,
             "owner": "qazbnm456",
             "repo": "awesome-cve-poc",
-            "stars": 3527
+            "stars": 3527,
+            "topics": [
+              "awesome",
+              "cve",
+              "poc"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3451,12 +5475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+            "homepage": "http://caesar0301.github.io/awesome-pcaptools",
             "id": 4415789,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-09-03T07:24:40Z",
+            "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3416
+            "stars": 3416,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         },
@@ -3467,12 +5496,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of sources of indicators of compromise.",
+            "homepage": null,
             "id": 74331654,
             "language": "Shell",
-            "last_commit": "2025-05-08T15:09:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:03:05Z",
+            "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 997
+            "stars": 997,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ioc",
+              "signature",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
         }
@@ -3481,15 +5521,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:22.235Z",
+    "last_updated": "2026-08-29T04:18:25.875Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome YARA rules, tools, and people.",
+      "homepage": null,
       "id": 101214787,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-06-15T19:57:31Z",
+      "open_issues": 1,
       "owner": "pedramamini",
       "repo": "awesome-yara",
-      "stars": 4265
+      "stars": 4264,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-yara",
+        "ioc",
+        "malware-analysis",
+        "malware-detection",
+        "malware-research",
+        "malware-rules",
+        "threat-hunting",
+        "yara",
+        "yara-manager",
+        "yara-rules",
+        "yara-scanner",
+        "yara-signatures"
+      ]
     },
     "original_repository_sha": "5f50235a72dcecd3557c1b96d21d0ffc7e6e0394",
     "enhanced_repository": "enhansome/enhansome-yara",

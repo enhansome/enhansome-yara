@@ -6,7 +6,7 @@
 
 <h1 align="center">Awesome YARA</h1>
 
-A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,769 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13.
+A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13.
 
 > YARA is an ancronym for: YARA: Another Recursive Ancronym, or Yet Another Ridiculous Acronym. Pick your choice.
 >
@@ -509,17 +509,17 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 
 ## Related Awesome Lists
 
-* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,253 | 🐛 40 | 📅 2026-07-26
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,617 | 🐛 9 | 📅 2026-08-25
+* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,268 | 🐛 40 | 📅 2026-07-26
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,635 | 🐛 9 | 📅 2026-08-25
 * [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,049 | 🐛 105 | 📅 2026-07-25
-* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,962 | 🐛 69 | 📅 2024-06-02
+* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,964 | 🐛 69 | 📅 2024-06-02
 * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,805 | 🐛 316 | 📅 2026-01-11
 * [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,752 | 🐛 11 | 🌐 Rust | 📅 2026-08-28
 * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,162 | 🐛 25 | 📅 2024-06-07
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,581 | 🐛 117 | 📅 2026-05-31
-* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,536 | 🐛 23 | 🌐 Python | 📅 2026-06-01
+* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,537 | 🐛 23 | 🌐 Python | 📅 2026-06-01
 * [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,357 | 🐛 75 | 📅 2026-07-15
-* [ML for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,330 | 🐛 30 | 📅 2024-08-19
+* [ML for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,331 | 🐛 30 | 📅 2024-08-19
 * [Crawler](https://github.com/BruceDone/awesome-crawler) ⭐ 7,298 | 🐛 41 | 📅 2024-06-16
 * [Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,728 | 🐛 15 | 📅 2026-08-28
 * [Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,165 | 🐛 9 | 📅 2026-08-23
@@ -527,7 +527,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,513 | 🐛 18 | 📅 2023-08-19
 * [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) ⭐ 3,527 | 🐛 2 | 📅 2022-01-04
 * [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,416 | 🐛 14 | 📅 2025-09-03
-* [IOCs](https://github.com/sroberts/awesome-iocs) ⭐ 997 | 🐛 8 | 🌐 Shell | 📅 2025-05-08
+* [IOCs](https://github.com/sroberts/awesome-iocs) ⭐ 997 | 🐛 7 | 🌐 Shell | 📅 2026-08-29
 
 ## Contributing
 
@@ -538,8 +538,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Contributors
 
-[![awesome-yara contributors](https://contrib.rocks/image?repo=inquest/awesome-yara\&max=100)](https://github.com/inquest/awesome-yara/graphs/contributors) ⭐ 4,265 | 🐛 1 | 📅 2026-06-15
+[![awesome-yara contributors](https://contrib.rocks/image?repo=inquest/awesome-yara\&max=100)](https://github.com/inquest/awesome-yara/graphs/contributors) ⭐ 4,264 | 🐛 1 | 📅 2026-06-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
