@@ -67,7 +67,7 @@
             "open_issues": 27,
             "owner": "Yara-Rules",
             "repo": "rules",
-            "stars": 4897,
+            "stars": 4895,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -84,11 +84,11 @@
             "id": 215366713,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T00:39:54Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-18T21:48:23Z",
+            "open_issues": 73,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3513,
+            "stars": 3515,
             "topics": [
               "cape",
               "configs",
@@ -119,7 +119,7 @@
             "open_issues": 17,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3027,
+            "stars": 3028,
             "topics": [
               "anti-virus",
               "dfir",
@@ -616,7 +616,7 @@
             "open_issues": 2,
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 244,
+            "stars": 243,
             "topics": [
               "antimalware",
               "antivirus",
@@ -1406,7 +1406,7 @@
             "id": 1231682626,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T11:02:06Z",
+            "last_commit": "2026-09-19T05:55:32Z",
             "open_issues": 0,
             "owner": "cystack",
             "repo": "stealer-fingerprints",
@@ -1651,7 +1651,7 @@
             "open_issues": 2922,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6543,
+            "stars": 6544,
             "topics": [
               "cti",
               "cybersecurity",
@@ -1689,11 +1689,11 @@
             "id": 215366713,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T00:39:54Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-18T21:48:23Z",
+            "open_issues": 73,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3513,
+            "stars": 3515,
             "topics": [
               "cape",
               "configs",
@@ -1724,7 +1724,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2576,
+            "stars": 2577,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1949,7 +1949,7 @@
             "open_issues": 15,
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 927,
+            "stars": 929,
             "topics": [
               "dfir",
               "fraud-detection",
@@ -2054,11 +2054,11 @@
             "id": 753881685,
             "language": "YARA",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T12:12:14Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-19T00:19:56Z",
+            "open_issues": 8,
             "owner": "chainguard-dev",
             "repo": "malcontent",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "binary",
               "linux",
@@ -2182,8 +2182,8 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:20:58Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-18T19:04:57Z",
+            "open_issues": 42,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 489,
@@ -5011,7 +5011,7 @@
             "open_issues": 42,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 120696,
+            "stars": 120766,
             "topics": [
               "android",
               "awesome",
@@ -5039,10 +5039,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T20:56:00Z",
-            "open_issues": 26,
+            "open_issues": 28,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29615,
+            "stars": 29634,
             "topics": [
               "awesome-list",
               "osint",
@@ -5067,7 +5067,7 @@
             "open_issues": 120,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27222,
+            "stars": 27235,
             "topics": [
               "awesome",
               "awesome-list"
@@ -5091,7 +5091,7 @@
             "open_issues": 73,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17088,
+            "stars": 17095,
             "topics": [
               "awesome",
               "hacking"
@@ -5112,10 +5112,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 334,
+            "open_issues": 336,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14867,
+            "stars": 14869,
             "topics": [
               "awesome-list",
               "security"
@@ -5135,11 +5135,11 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:42:24Z",
+            "last_commit": "2026-09-19T13:14:57Z",
             "open_issues": 0,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14786,
+            "stars": 14789,
             "topics": [
               "analysis",
               "awesome-list",
@@ -5170,7 +5170,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14203,
+            "stars": 14202,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -5208,10 +5208,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 138,
+            "open_issues": 139,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10655,
+            "stars": 10658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5237,7 +5237,7 @@
             "open_issues": 29,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10564,
+            "stars": 10563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5261,10 +5261,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9395,
+            "stars": 9398,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5294,7 +5294,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9387,
+            "stars": 9391,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -5320,7 +5320,7 @@
             "open_issues": 41,
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7316,
+            "stars": 7318,
             "topics": [
               "awesome",
               "crawler",
@@ -5349,7 +5349,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5746,
+            "stars": 5747,
             "topics": [
               "awesome",
               "courses",
@@ -5379,7 +5379,7 @@
             "open_issues": 13,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5186,
+            "stars": 5187,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -5519,7 +5519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:38:38.831Z",
+    "last_updated": "2026-09-19T17:12:38.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome YARA rules, tools, and people.",
@@ -5528,7 +5528,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-06-15T19:57:31Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "pedramamini",
       "repo": "awesome-yara",
       "stars": 4274,
