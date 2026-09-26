@@ -88,7 +88,7 @@
             "open_issues": 75,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3529,
+            "stars": 3530,
             "topics": [
               "cape",
               "configs",
@@ -172,7 +172,7 @@
             "open_issues": 13,
             "owner": "DidierStevens",
             "repo": "DidierStevensSuite",
-            "stars": 2542,
+            "stars": 2543,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -612,11 +612,11 @@
             "id": 804319384,
             "language": "YARA",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-25T17:33:03Z",
+            "last_commit": "2026-09-26T16:07:36Z",
             "open_issues": 5,
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "antimalware",
               "antivirus",
@@ -1651,7 +1651,7 @@
             "open_issues": 2935,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6548,
+            "stars": 6551,
             "topics": [
               "cti",
               "cybersecurity",
@@ -1693,7 +1693,7 @@
             "open_issues": 75,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3529,
+            "stars": 3530,
             "topics": [
               "cape",
               "configs",
@@ -2054,7 +2054,7 @@
             "id": 753881685,
             "language": "YARA",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T12:47:14Z",
+            "last_commit": "2026-09-26T01:26:25Z",
             "open_issues": 6,
             "owner": "chainguard-dev",
             "repo": "malcontent",
@@ -4841,11 +4841,11 @@
             "id": 231619464,
             "language": "XML",
             "license": null,
-            "last_commit": "2026-09-21T14:55:06Z",
+            "last_commit": "2026-09-26T17:34:30Z",
             "open_issues": 1,
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
-            "stars": 822,
+            "stars": 824,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -5011,7 +5011,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121192,
+            "stars": 121263,
             "topics": [
               "android",
               "awesome",
@@ -5039,10 +5039,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T20:56:00Z",
-            "open_issues": 10,
+            "open_issues": 0,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29734,
+            "stars": 29764,
             "topics": [
               "awesome-list",
               "osint",
@@ -5064,10 +5064,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 125,
+            "open_issues": 128,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27283,
+            "stars": 27288,
             "topics": [
               "awesome",
               "awesome-list"
@@ -5091,7 +5091,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17141,
+            "stars": 17144,
             "topics": [
               "awesome",
               "hacking"
@@ -5112,7 +5112,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 343,
+            "open_issues": 344,
             "owner": "sbilly",
             "repo": "awesome-security",
             "stars": 14896,
@@ -5139,7 +5139,7 @@
             "open_issues": 0,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14808,
+            "stars": 14807,
             "topics": [
               "analysis",
               "awesome-list",
@@ -5170,7 +5170,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14219,
+            "stars": 14218,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -5208,10 +5208,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 139,
+            "open_issues": 140,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10675,
+            "stars": 10676,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5250,6 +5250,32 @@
         },
         {
           "node_type": "item",
+          "title": "ML for Cyber Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": " :octocat: Machine Learning for Cyber Security",
+            "homepage": null,
+            "id": 76955905,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2024-08-19T02:14:10Z",
+            "open_issues": 31,
+            "owner": "jivoi",
+            "repo": "awesome-ml-for-cybersecurity",
+            "stars": 9411,
+            "topics": [
+              "awesome-list",
+              "cyber-security",
+              "data-mining",
+              "machine-learning"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
           "title": "Incident-Response",
           "description": null,
           "children": [],
@@ -5280,32 +5306,6 @@
         },
         {
           "node_type": "item",
-          "title": "ML for Cyber Security",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": " :octocat: Machine Learning for Cyber Security",
-            "homepage": null,
-            "id": 76955905,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2024-08-19T02:14:10Z",
-            "open_issues": 31,
-            "owner": "jivoi",
-            "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9406,
-            "topics": [
-              "awesome-list",
-              "cyber-security",
-              "data-mining",
-              "machine-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:22.235Z"
-        },
-        {
-          "node_type": "item",
           "title": "Crawler",
           "description": null,
           "children": [],
@@ -5320,7 +5320,7 @@
             "open_issues": 41,
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7320,
+            "stars": 7321,
             "topics": [
               "awesome",
               "crawler",
@@ -5519,7 +5519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:30:25.175Z",
+    "last_updated": "2026-09-26T17:43:40.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome YARA rules, tools, and people.",
