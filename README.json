@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Yara Performance Guidelines",
-          "description": null,
+          "description": "Neo23x0/YARA-Performance-Guidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "YARA-Style-Guide",
-          "description": null,
+          "description": "Neo23x0/YARA-Style-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 78,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3546,
+            "stars": 3545,
             "topics": [
               "cape",
               "configs",
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "FireEye",
-          "description": null,
+          "description": "mandiant/red_team_tool_countermeasures",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "Elastic Security YARA Rules",
-          "description": null,
+          "description": "elastic/protections-artifacts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,7 +227,7 @@
         {
           "node_type": "item",
           "title": "BinaryAlert YARA Rules",
-          "description": null,
+          "description": "airbnb/binaryalert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "McAfee Advanced Threat Research Yara-Rules",
-          "description": null,
+          "description": "advanced-threat-research/Yara-Rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Google Cloud Threat Intelligence(GCTI) Rules",
-          "description": null,
+          "description": "chronicle/GCTI",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "AlienVault Labs Rules",
-          "description": null,
+          "description": "AlienVault-Labs/AlienVaultLabs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,34 +403,8 @@
         },
         {
           "node_type": "item",
-          "title": "InQuest Rules",
-          "description": "eyes:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of YARA rules we wish to share with the world, most probably referenced from http://blog.inquest.net.",
-            "homepage": null,
-            "id": 106597699,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-05-11T21:54:48Z",
-            "open_issues": 2,
-            "owner": "InQuest",
-            "repo": "yara-rules",
-            "stars": 390,
-            "topics": [
-              "threat-hunting",
-              "yara",
-              "yara-rules",
-              "yara-signatures"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:22.235Z"
-        },
-        {
-          "node_type": "item",
           "title": "Icewater Rules",
-          "description": null,
+          "description": "SupportIntelligence/Icewater",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -450,6 +424,32 @@
               "malware-analysis",
               "threat",
               "yara"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "InQuest Rules",
+          "description": "eyes:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of YARA rules we wish to share with the world, most probably referenced from http://blog.inquest.net.",
+            "homepage": null,
+            "id": 106597699,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-05-11T21:54:48Z",
+            "open_issues": 2,
+            "owner": "InQuest",
+            "repo": "yara-rules",
+            "stars": 389,
+            "topics": [
+              "threat-hunting",
+              "yara",
+              "yara-rules",
+              "yara-signatures"
             ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -526,7 +526,7 @@
         {
           "node_type": "item",
           "title": "FSF Rules",
-          "description": null,
+          "description": "EmersonElectricCo/fsf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -553,7 +553,7 @@
         {
           "node_type": "item",
           "title": "Ditekshen Rules",
-          "description": null,
+          "description": "ditekshen/detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,7 +582,7 @@
         {
           "node_type": "item",
           "title": "SpiderLabs Rules",
-          "description": null,
+          "description": "SpiderLabs/malware-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +612,7 @@
             "id": 804319384,
             "language": "YARA",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T18:23:16Z",
+            "last_commit": "2026-10-03T02:05:25Z",
             "open_issues": 1,
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
@@ -633,7 +633,7 @@
         {
           "node_type": "item",
           "title": "t4d's PhishingKit-Yara-Rules",
-          "description": null,
+          "description": "t4d/PhishingKit-Yara-Rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,7 +665,7 @@
         {
           "node_type": "item",
           "title": "Rastrea2r",
-          "description": null,
+          "description": "rastrea2r/rastrea2r",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -691,7 +691,7 @@
         {
           "node_type": "item",
           "title": "Sophos AI YaraML Rules",
-          "description": null,
+          "description": "sophos/yaraml_rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -712,7 +712,7 @@
         {
           "node_type": "item",
           "title": "ThreatHunting-Keywords-yara-rules",
-          "description": null,
+          "description": "mthcht/ThreatHunting-Keywords-yara-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "Citizen Lab Malware Signatures",
-          "description": null,
+          "description": "citizenlab/malware-signatures",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,7 +791,7 @@
         {
           "node_type": "item",
           "title": "YARA-FORENSICS",
-          "description": null,
+          "description": "Xumeiquer/yara-forensics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -840,7 +840,7 @@
         {
           "node_type": "item",
           "title": "QuickSand Lite Rules",
-          "description": null,
+          "description": "tylabs/qs_old",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -861,7 +861,7 @@
         {
           "node_type": "item",
           "title": "yara4pentesters",
-          "description": null,
+          "description": "DiabloHorn/yara4pentesters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -882,7 +882,7 @@
         {
           "node_type": "item",
           "title": "Telekom Security Malare Analysis Repository",
-          "description": null,
+          "description": "telekom-security/malware_analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,7 +909,7 @@
         {
           "node_type": "item",
           "title": "Rapid7-Labs",
-          "description": null,
+          "description": "rapid7/Rapid7-Labs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -930,7 +930,7 @@
         {
           "node_type": "item",
           "title": "lw-yara",
-          "description": null,
+          "description": "Hestat/lw-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,7 +957,7 @@
         {
           "node_type": "item",
           "title": "GoDaddy ProcFilter Rules",
-          "description": null,
+          "description": "godaddy/yara-rules",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -999,7 +999,7 @@
         {
           "node_type": "item",
           "title": "McAfee Advanced Threat Research IOCs",
-          "description": null,
+          "description": "advanced-threat-research/IOCs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1020,7 +1020,7 @@
         {
           "node_type": "item",
           "title": "BinSequencer",
-          "description": null,
+          "description": "karttoon/binsequencer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1041,7 +1041,7 @@
         {
           "node_type": "item",
           "title": "Delivr.to Detections",
-          "description": null,
+          "description": "delivr-to/detections",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1062,7 +1062,7 @@
         {
           "node_type": "item",
           "title": "Frank Boldewin's Rules",
-          "description": null,
+          "description": "fboldewin/YARA-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1083,7 +1083,7 @@
         {
           "node_type": "item",
           "title": "MalGamy's YARA_Rules",
-          "description": null,
+          "description": "MalGamy/YARA_Rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1104,7 +1104,7 @@
         {
           "node_type": "item",
           "title": "Tenable Rules",
-          "description": null,
+          "description": "tenable/yara-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "kevthehermit Rules",
-          "description": null,
+          "description": "kevthehermit/YaraRules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1146,7 +1146,7 @@
         {
           "node_type": "item",
           "title": "Burp YARA Rules",
-          "description": null,
+          "description": "codewatchorg/Burp-Yara-Rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1217,7 +1217,7 @@
         {
           "node_type": "item",
           "title": "anyrun rules",
-          "description": null,
+          "description": "anyrun/YARA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1329,7 +1329,7 @@
         {
           "node_type": "item",
           "title": "Yara-Unprotect",
-          "description": null,
+          "description": "fr0gger/Yara-Unprotect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "Filescan.io Rules",
-          "description": "✨",
+          "description": "filescanio/fsYara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1405,7 +1405,7 @@
             "id": 1231682626,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:22:11Z",
+            "last_commit": "2026-10-02T22:58:49Z",
             "open_issues": 0,
             "owner": "cystack",
             "repo": "stealer-fingerprints",
@@ -1435,7 +1435,7 @@
         {
           "node_type": "item",
           "title": "imp0rtp3's Rules",
-          "description": null,
+          "description": "imp0rtp3/yara-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1462,7 +1462,7 @@
         {
           "node_type": "item",
           "title": "CDI Rules",
-          "description": null,
+          "description": "CyberDefenses/CDI_yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1486,7 +1486,7 @@
         {
           "node_type": "item",
           "title": "VectraThreatLab Rules",
-          "description": null,
+          "description": "VectraThreatLab/reyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1507,7 +1507,7 @@
         {
           "node_type": "item",
           "title": "Securitymagic's YARA Rules",
-          "description": null,
+          "description": "securitymagic/yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1528,7 +1528,7 @@
         {
           "node_type": "item",
           "title": "Public YARA Rules",
-          "description": null,
+          "description": "jipegit/yara-rules-public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1549,7 +1549,7 @@
         {
           "node_type": "item",
           "title": "f0wl yara_rules",
-          "description": null,
+          "description": "f0wl/yara_rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1575,7 +1575,7 @@
         {
           "node_type": "item",
           "title": "TjadaNel Rules",
-          "description": null,
+          "description": "tjnel/yara_repo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1637,7 +1637,7 @@
         {
           "node_type": "item",
           "title": "MISP Threat Sharing",
-          "description": null,
+          "description": "MISP/MISP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1692,7 +1692,7 @@
             "open_issues": 78,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3546,
+            "stars": 3545,
             "topics": [
               "cape",
               "configs",
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "APKiD",
-          "description": null,
+          "description": "rednaga/APKiD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1723,7 +1723,7 @@
             "open_issues": 84,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2585,
+            "stars": 2586,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1746,7 +1746,7 @@
         {
           "node_type": "item",
           "title": "Yeti",
-          "description": null,
+          "description": "yeti-platform/yeti",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1755,8 +1755,8 @@
             "id": 47927876,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:22:43Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-02T19:24:24Z",
+            "open_issues": 68,
             "owner": "yeti-platform",
             "repo": "yeti",
             "stars": 2033,
@@ -1775,7 +1775,7 @@
         {
           "node_type": "item",
           "title": "yarGen",
-          "description": null,
+          "description": "Neo23x0/yarGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1824,7 +1824,7 @@
         {
           "node_type": "item",
           "title": "AirBnB BinaryAlert",
-          "description": null,
+          "description": "airbnb/binaryalert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1853,7 +1853,7 @@
         {
           "node_type": "item",
           "title": "YaraHunter",
-          "description": null,
+          "description": "deepfence/YaraHunter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1885,7 +1885,7 @@
         {
           "node_type": "item",
           "title": "PasteHunter",
-          "description": null,
+          "description": "kevthehermit/PasteHunter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1906,7 +1906,7 @@
         {
           "node_type": "item",
           "title": "Strelka",
-          "description": null,
+          "description": "target/strelka",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1935,7 +1935,7 @@
         {
           "node_type": "item",
           "title": "ThreatIngestor",
-          "description": null,
+          "description": "pedramamini/ThreatIngestor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1975,12 +1975,12 @@
         {
           "node_type": "item",
           "title": "Laika BOSS",
-          "description": null,
+          "description": "lmco/laikaboss",
           "children": [
             {
               "node_type": "item",
               "title": "Whitepaper",
-              "description": null,
+              "description": "lmco/laikaboss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2018,7 +2018,7 @@
         {
           "node_type": "item",
           "title": "bincapz",
-          "description": null,
+          "description": "chainguard-dev/malcontent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2027,8 +2027,8 @@
             "id": 753881685,
             "language": "YARA",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:16:17Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-03T00:19:54Z",
+            "open_issues": 7,
             "owner": "chainguard-dev",
             "repo": "malcontent",
             "stars": 678,
@@ -2046,7 +2046,7 @@
         {
           "node_type": "item",
           "title": "MITRE MultiScanner",
-          "description": null,
+          "description": "mitre/multiscanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2059,7 +2059,7 @@
             "open_issues": 39,
             "owner": "mitre",
             "repo": "multiscanner",
-            "stars": 620,
+            "stars": 619,
             "topics": [
               "analysis-framework",
               "analytic-machines",
@@ -2082,7 +2082,7 @@
         {
           "node_type": "item",
           "title": "iocextract",
-          "description": null,
+          "description": "pedramamini/iocextract",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2118,7 +2118,7 @@
         {
           "node_type": "item",
           "title": "MalConfScan",
-          "description": null,
+          "description": "JPCERTCC/MalConfScan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2146,7 +2146,7 @@
         {
           "node_type": "item",
           "title": "Rustinel",
-          "description": null,
+          "description": "Karib0u/rustinel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2159,7 +2159,7 @@
             "open_issues": 69,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -2188,7 +2188,7 @@
         {
           "node_type": "item",
           "title": "mquery",
-          "description": null,
+          "description": "CERT-Polska/mquery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2236,7 +2236,7 @@
         {
           "node_type": "item",
           "title": "SwishDbgExt",
-          "description": null,
+          "description": "MagnetForensics/SwishDbgExt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2257,7 +2257,7 @@
         {
           "node_type": "item",
           "title": "yarAnalyzer",
-          "description": null,
+          "description": "Neo23x0/yarAnalyzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2278,7 +2278,7 @@
         {
           "node_type": "item",
           "title": "stoQ",
-          "description": null,
+          "description": "PUNCH-Cyber/stoq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2308,7 +2308,7 @@
         {
           "node_type": "item",
           "title": "go-yara",
-          "description": null,
+          "description": "hillu/go-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2335,7 +2335,7 @@
         {
           "node_type": "item",
           "title": "Polichombr",
-          "description": null,
+          "description": "ANSSI-FR/polichombr",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2364,7 +2364,7 @@
         {
           "node_type": "item",
           "title": "YaraGenerator",
-          "description": null,
+          "description": "Xen0ph0n/YaraGenerator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2385,7 +2385,7 @@
         {
           "node_type": "item",
           "title": "yextend",
-          "description": null,
+          "description": "BayshoreNetworks/yextend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2409,7 +2409,7 @@
         {
           "node_type": "item",
           "title": "yaya",
-          "description": null,
+          "description": "EFForg/yaya",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2430,7 +2430,7 @@
         {
           "node_type": "item",
           "title": "Fnord",
-          "description": null,
+          "description": "Neo23x0/Fnord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2451,7 +2451,7 @@
         {
           "node_type": "item",
           "title": "Emerson File Scanning Framework (FSF)",
-          "description": null,
+          "description": "EmersonElectricCo/fsf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2507,7 +2507,7 @@
         {
           "node_type": "item",
           "title": "Arya- The Reverse YARA",
-          "description": null,
+          "description": "claroty/arya",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2528,7 +2528,7 @@
         {
           "node_type": "item",
           "title": "Fastfinder",
-          "description": null,
+          "description": "codeyourweb/fastfinder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2554,7 +2554,7 @@
         {
           "node_type": "item",
           "title": "Hyara",
-          "description": null,
+          "description": "hyuunnn/Hyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2615,7 +2615,7 @@
         {
           "node_type": "item",
           "title": "mkYARA",
-          "description": null,
+          "description": "fox-it/mkYARA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2636,7 +2636,7 @@
         {
           "node_type": "item",
           "title": "halogen",
-          "description": null,
+          "description": "target/halogen",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2662,7 +2662,7 @@
         {
           "node_type": "item",
           "title": "plyara",
-          "description": null,
+          "description": "plyara/plyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2696,7 +2696,7 @@
         {
           "node_type": "item",
           "title": "YaraGuardian",
-          "description": null,
+          "description": "PUNCH-Cyber/YaraGuardian",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2725,7 +2725,7 @@
         {
           "node_type": "item",
           "title": "spyre",
-          "description": null,
+          "description": "spyre-project/spyre",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2781,7 +2781,7 @@
         {
           "node_type": "item",
           "title": "yabin",
-          "description": null,
+          "description": "AlienVault-OTX/yabin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2802,7 +2802,7 @@
         {
           "node_type": "item",
           "title": "yaralyzer",
-          "description": null,
+          "description": "michelcrypt4d4mus/yaralyzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2840,7 +2840,7 @@
         {
           "node_type": "item",
           "title": "CrowdStrike Feed Management System",
-          "description": null,
+          "description": "CrowdStrike/CrowdFMS",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2861,7 +2861,7 @@
         {
           "node_type": "item",
           "title": "yaramod",
-          "description": null,
+          "description": "avast/yaramod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2882,7 +2882,7 @@
         {
           "node_type": "item",
           "title": "CCCS-Yara",
-          "description": null,
+          "description": "CybercentreCanada/CCCS-Yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2907,7 +2907,7 @@
         {
           "node_type": "item",
           "title": "yara-endpoint",
-          "description": null,
+          "description": "Yara-Rules/yara-endpoint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2933,7 +2933,7 @@
         {
           "node_type": "item",
           "title": "yaraPCAP",
-          "description": null,
+          "description": "kevthehermit/YaraPcap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2954,7 +2954,7 @@
         {
           "node_type": "item",
           "title": "InQuest ThreatKB",
-          "description": null,
+          "description": "InQuest/ThreatKB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2981,7 +2981,7 @@
         {
           "node_type": "item",
           "title": "yarasafe",
-          "description": null,
+          "description": "lucamassarelli/yarasafe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3023,7 +3023,7 @@
         {
           "node_type": "item",
           "title": "YARI",
-          "description": null,
+          "description": "avast/yari",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3050,7 +3050,7 @@
         {
           "node_type": "item",
           "title": "yara-parser",
-          "description": null,
+          "description": "Northern-Lights/yara-parser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3085,7 +3085,7 @@
         {
           "node_type": "item",
           "title": "yara-rust",
-          "description": null,
+          "description": "Hugal31/yara-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3111,7 +3111,7 @@
         {
           "node_type": "item",
           "title": "AutoYara",
-          "description": null,
+          "description": "FutureComputing4AI/AutoYara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3132,7 +3132,7 @@
         {
           "node_type": "item",
           "title": "factual-rules-generator",
-          "description": null,
+          "description": "CIRCL/factual-rules-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3158,7 +3158,7 @@
         {
           "node_type": "item",
           "title": "YLS",
-          "description": null,
+          "description": "avast/yls",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3185,7 +3185,7 @@
         {
           "node_type": "item",
           "title": "yara_tools",
-          "description": null,
+          "description": "matonis/yara_tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3231,7 +3231,7 @@
         {
           "node_type": "item",
           "title": "malwatch",
-          "description": null,
+          "description": "defended-net/malwatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3259,7 +3259,7 @@
         {
           "node_type": "item",
           "title": "YaYaGen",
-          "description": null,
+          "description": "jimmy-sonny/YaYaGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3301,7 +3301,7 @@
         {
           "node_type": "item",
           "title": "FARA",
-          "description": null,
+          "description": "bartblaze/FARA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3326,7 +3326,7 @@
         {
           "node_type": "item",
           "title": "libyara.NET",
-          "description": null,
+          "description": "microsoft/libyara.NET",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3347,7 +3347,7 @@
         {
           "node_type": "item",
           "title": "Yara Python ICAP Server",
-          "description": null,
+          "description": "RamadhanAmizudin/python-icap-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3375,7 +3375,7 @@
         {
           "node_type": "item",
           "title": "YaraManager",
-          "description": null,
+          "description": "kevthehermit/YaraManager",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3396,7 +3396,7 @@
         {
           "node_type": "item",
           "title": "static_file_analysis",
-          "description": null,
+          "description": "lprat/static_file_analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3459,7 +3459,7 @@
         {
           "node_type": "item",
           "title": "Yara-Scanner",
-          "description": null,
+          "description": "PolitoInc/Yara-Scanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3480,7 +3480,7 @@
         {
           "node_type": "item",
           "title": "OCYara",
-          "description": null,
+          "description": "bandrel/OCyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3510,7 +3510,7 @@
         {
           "node_type": "item",
           "title": "YaraSharp",
-          "description": null,
+          "description": "stellarbear/YaraSharp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3542,7 +3542,7 @@
         {
           "node_type": "item",
           "title": "Yara-Validator",
-          "description": null,
+          "description": "CIRCL/yara-validator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3567,7 +3567,7 @@
         {
           "node_type": "item",
           "title": "base64_substring",
-          "description": null,
+          "description": "DissectMalware/base64_substring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3594,7 +3594,7 @@
         {
           "node_type": "item",
           "title": "dnYara",
-          "description": null,
+          "description": "airbus-cert/dnYara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3636,7 +3636,7 @@
         {
           "node_type": "item",
           "title": "Yara Malware Quick menu scanner",
-          "description": null,
+          "description": "techbliss/Yara_Mailware_Quick_menu_scanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3678,7 +3678,7 @@
         {
           "node_type": "item",
           "title": "YaraStation",
-          "description": null,
+          "description": "NumLocK15/YaraStation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3733,7 +3733,7 @@
         {
           "node_type": "item",
           "title": "VirusTotalTools",
-          "description": null,
+          "description": "silascutler/VirusTotalTools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3754,7 +3754,7 @@
         {
           "node_type": "item",
           "title": "ELAT",
-          "description": null,
+          "description": "reed1713/ELAT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3775,7 +3775,7 @@
         {
           "node_type": "item",
           "title": "PwC Cyber Threat Operations rtfsig",
-          "description": null,
+          "description": "PwCUK-CTO/rtfsig",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3801,7 +3801,7 @@
         {
           "node_type": "item",
           "title": "yarg",
-          "description": null,
+          "description": "immortalp0ny/yarg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3822,7 +3822,7 @@
         {
           "node_type": "item",
           "title": "Fadavvi YARA collection script",
-          "description": null,
+          "description": "Fadavvi/Yara-Repo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3853,7 +3853,7 @@
         {
           "node_type": "item",
           "title": "ida-yara-processor",
-          "description": null,
+          "description": "bnbdr/ida-yara-processor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3880,7 +3880,7 @@
         {
           "node_type": "item",
           "title": "yaraMail",
-          "description": null,
+          "description": "kevthehermit/yaraMail",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3901,7 +3901,7 @@
         {
           "node_type": "item",
           "title": "Yarasilly2",
-          "description": null,
+          "description": "YARA-Silly-Silly/yarasilly2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3950,7 +3950,7 @@
         {
           "node_type": "item",
           "title": "yarascanner",
-          "description": null,
+          "description": "jheise/yarascanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3971,7 +3971,7 @@
         {
           "node_type": "item",
           "title": "ida_yara",
-          "description": null,
+          "description": "alexander-hanel/ida_yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4034,7 +4034,7 @@
         {
           "node_type": "item",
           "title": "yaml2yara",
-          "description": null,
+          "description": "nccgroup/yaml2yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4059,7 +4059,7 @@
         {
           "node_type": "item",
           "title": "Audit Node Modules With YARA Rules",
-          "description": null,
+          "description": "rpgeeganage/audit-node-modules-with-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4092,7 +4092,7 @@
         {
           "node_type": "item",
           "title": "ExchangeFilter",
-          "description": null,
+          "description": "k-sec-tools/ExchangeFilter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4113,7 +4113,7 @@
         {
           "node_type": "item",
           "title": "Yara Scanner",
-          "description": null,
+          "description": "ace-ecosystem/yara_scanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4134,7 +4134,7 @@
         {
           "node_type": "item",
           "title": "alterix",
-          "description": null,
+          "description": "mtnmunuklu/alterix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4166,7 +4166,7 @@
         {
           "node_type": "item",
           "title": "plast",
-          "description": null,
+          "description": "sk4la/plast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4197,7 +4197,7 @@
         {
           "node_type": "item",
           "title": "a-ray-grass",
-          "description": null,
+          "description": "hashlookup/a-ray-grass",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4223,7 +4223,7 @@
         {
           "node_type": "item",
           "title": "node-yara",
-          "description": null,
+          "description": "nospaceships/node-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4244,7 +4244,7 @@
         {
           "node_type": "item",
           "title": "statiStrings",
-          "description": null,
+          "description": "Sh3llyR/statiStrings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4265,7 +4265,7 @@
         {
           "node_type": "item",
           "title": "AIDebug",
-          "description": null,
+          "description": "anpa1200/AIDebug",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4307,7 +4307,7 @@
         {
           "node_type": "item",
           "title": "malscan",
-          "description": null,
+          "description": "usualsuspect/malscan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4328,7 +4328,7 @@
         {
           "node_type": "item",
           "title": "YARA-sort",
-          "description": null,
+          "description": "horsicq/YARA-sort",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4353,7 +4353,7 @@
         {
           "node_type": "item",
           "title": "yara_zip_module",
-          "description": null,
+          "description": "stoerchl/yara_zip_module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4374,7 +4374,7 @@
         {
           "node_type": "item",
           "title": "IDA_scripts",
-          "description": null,
+          "description": "swackhamer/IDA_scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4395,7 +4395,7 @@
         {
           "node_type": "item",
           "title": "yara-ocaml",
-          "description": null,
+          "description": "XVilka/yara-ocaml",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4416,7 +4416,7 @@
         {
           "node_type": "item",
           "title": "yara-procdump-python",
-          "description": null,
+          "description": "google/yara-procdump-python",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4437,7 +4437,7 @@
         {
           "node_type": "item",
           "title": "yaraScanParser",
-          "description": null,
+          "description": "Sh3llyR/yaraScanParser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4458,7 +4458,7 @@
         {
           "node_type": "item",
           "title": "shotgunyara",
-          "description": null,
+          "description": "darienhuss/shotgunyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4479,7 +4479,7 @@
         {
           "node_type": "item",
           "title": "yaraparser",
-          "description": null,
+          "description": "BitsOfBinary/yaraparser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4505,7 +4505,7 @@
         {
           "node_type": "item",
           "title": "decompressingyara",
-          "description": null,
+          "description": "rjzak/decompressingyara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4530,12 +4530,12 @@
         {
           "node_type": "item",
           "title": "yara-java",
-          "description": null,
+          "description": "subreption/yara-java",
           "children": [
             {
               "node_type": "item",
               "title": "Java bindings for YARA (Subreption fork, maintained as of 2024, old bindings",
-              "description": ").",
+              "description": "p8a/yara-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4573,7 +4573,7 @@
         {
           "node_type": "item",
           "title": "androguard-yara",
-          "description": null,
+          "description": "MindMac/androguard-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4620,7 +4620,7 @@
         {
           "node_type": "item",
           "title": "ocaml-yara",
-          "description": null,
+          "description": "elastic/ocaml-yara",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4641,7 +4641,7 @@
         {
           "node_type": "item",
           "title": "yaraVT",
-          "description": null,
+          "description": "deadbits/yaraVT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4669,7 +4669,7 @@
         {
           "node_type": "item",
           "title": "YMCA",
-          "description": null,
+          "description": "m0n4/YARA-Matches-Correspondance-Array",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4693,7 +4693,7 @@
         {
           "node_type": "item",
           "title": "java2yara",
-          "description": null,
+          "description": "fxb-cocacoding/java2yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4718,7 +4718,7 @@
         {
           "node_type": "item",
           "title": "YaraFileCheckerLib",
-          "description": null,
+          "description": "k-sec-tools/YaraFileCheckerLib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4739,7 +4739,7 @@
         {
           "node_type": "item",
           "title": "nullsec-yara",
-          "description": null,
+          "description": "bad-antics/nullsec-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4805,7 +4805,7 @@
         {
           "node_type": "item",
           "title": "Notepad++: userDefinedLanguages",
-          "description": null,
+          "description": "notepad-plus-plus/userDefinedLanguages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4826,7 +4826,7 @@
         {
           "node_type": "item",
           "title": "Visual Studio Code: vscode-yara",
-          "description": null,
+          "description": "infosec-intern/vscode-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4853,7 +4853,7 @@
         {
           "node_type": "item",
           "title": "Atom: language-yara",
-          "description": null,
+          "description": "blacktop/language-yara",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4874,7 +4874,7 @@
         {
           "node_type": "item",
           "title": "Sublime Text: YaraSyntax",
-          "description": null,
+          "description": "nyx0/YaraSyntax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4920,7 +4920,7 @@
         {
           "node_type": "item",
           "title": "Emacs: yara-mode",
-          "description": null,
+          "description": "binjo/yara-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4941,7 +4941,7 @@
         {
           "node_type": "item",
           "title": "GTK-based editors, like gedit and xed: GtkSourceView-YARA",
-          "description": null,
+          "description": "wesinator/GtkSourceView-YARA",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4971,7 +4971,7 @@
         {
           "node_type": "item",
           "title": "HackwithGithub",
-          "description": null,
+          "description": "Hack-with-Github/Awesome-Hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4984,7 +4984,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121710,
+            "stars": 121734,
             "topics": [
               "android",
               "awesome",
@@ -5002,7 +5002,7 @@
         {
           "node_type": "item",
           "title": "OSINT",
-          "description": null,
+          "description": "jivoi/awesome-osint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5012,10 +5012,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T20:56:00Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29871,
+            "stars": 29877,
             "topics": [
               "awesome-list",
               "osint",
@@ -5027,7 +5027,7 @@
         {
           "node_type": "item",
           "title": "Pentesting",
-          "description": null,
+          "description": "enaqx/awesome-pentest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5040,7 +5040,7 @@
             "open_issues": 133,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27328,
+            "stars": 27331,
             "topics": [
               "awesome",
               "awesome-list"
@@ -5051,7 +5051,7 @@
         {
           "node_type": "item",
           "title": "Hacking",
-          "description": null,
+          "description": "carpedm20/awesome-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5075,7 +5075,7 @@
         {
           "node_type": "item",
           "title": "Security",
-          "description": null,
+          "description": "sbilly/awesome-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5088,7 +5088,7 @@
             "open_issues": 350,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14928,
+            "stars": 14930,
             "topics": [
               "awesome-list",
               "security"
@@ -5099,7 +5099,7 @@
         {
           "node_type": "item",
           "title": "Static Analysis",
-          "description": null,
+          "description": "analysis-tools-dev/static-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5112,7 +5112,7 @@
             "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14820,
+            "stars": 14821,
             "topics": [
               "analysis",
               "awesome-list",
@@ -5130,7 +5130,7 @@
         {
           "node_type": "item",
           "title": "Malware Analysis",
-          "description": null,
+          "description": "rshipp/awesome-malware-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5143,7 +5143,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -5171,7 +5171,7 @@
         {
           "node_type": "item",
           "title": "Threat Intelligence",
-          "description": null,
+          "description": "hslatman/awesome-threat-intelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5184,7 +5184,7 @@
             "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10692,
+            "stars": 10694,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5197,7 +5197,7 @@
         {
           "node_type": "item",
           "title": "Honeypots",
-          "description": null,
+          "description": "paralax/awesome-honeypots",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5210,7 +5210,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10576,
+            "stars": 10579,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5224,7 +5224,7 @@
         {
           "node_type": "item",
           "title": "ML for Cyber Security",
-          "description": null,
+          "description": "jivoi/awesome-ml-for-cybersecurity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5237,7 +5237,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9432,
+            "stars": 9434,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -5250,7 +5250,7 @@
         {
           "node_type": "item",
           "title": "Incident-Response",
-          "description": null,
+          "description": "meirwah/awesome-incident-response",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5263,7 +5263,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9426,
+            "stars": 9427,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5280,7 +5280,7 @@
         {
           "node_type": "item",
           "title": "Crawler",
-          "description": null,
+          "description": "BruceDone/awesome-crawler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5293,7 +5293,7 @@
             "open_issues": 41,
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7321,
+            "stars": 7322,
             "topics": [
               "awesome",
               "crawler",
@@ -5309,7 +5309,7 @@
         {
           "node_type": "item",
           "title": "Infosec",
-          "description": null,
+          "description": "onlurking/awesome-infosec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5322,7 +5322,7 @@
             "open_issues": 19,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5755,
+            "stars": 5754,
             "topics": [
               "awesome",
               "courses",
@@ -5339,7 +5339,7 @@
         {
           "node_type": "item",
           "title": "Forensics",
-          "description": null,
+          "description": "cugu/awesome-forensics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5352,7 +5352,7 @@
             "open_issues": 5,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5208,
+            "stars": 5209,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -5367,7 +5367,7 @@
         {
           "node_type": "item",
           "title": "Threat Detection",
-          "description": null,
+          "description": "0x4D31/awesome-threat-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5380,7 +5380,7 @@
             "open_issues": 61,
             "owner": "0x4D31",
             "repo": "awesome-threat-detection",
-            "stars": 4736,
+            "stars": 4737,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5396,7 +5396,7 @@
         {
           "node_type": "item",
           "title": "Reversing",
-          "description": null,
+          "description": "tylerha97/awesome-reversing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5417,7 +5417,7 @@
         {
           "node_type": "item",
           "title": "CVE PoC",
-          "description": null,
+          "description": "qazbnm456/awesome-cve-poc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5442,7 +5442,7 @@
         {
           "node_type": "item",
           "title": "PCAP Tools",
-          "description": null,
+          "description": "caesar0301/awesome-pcaptools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5455,7 +5455,7 @@
             "open_issues": 15,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3431,
+            "stars": 3429,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -5463,7 +5463,7 @@
         {
           "node_type": "item",
           "title": "IOCs",
-          "description": null,
+          "description": "sroberts/awesome-iocs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5503,7 +5503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:11:45.445Z",
+    "last_updated": "2026-10-03T05:16:55.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome YARA rules, tools, and people.",
@@ -5515,7 +5515,7 @@
       "open_issues": 1,
       "owner": "pedramamini",
       "repo": "awesome-yara",
-      "stars": 4280,
+      "stars": 4281,
       "topics": [
         "awesome",
         "awesome-list",
