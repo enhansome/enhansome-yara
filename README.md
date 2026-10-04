@@ -6,13 +6,13 @@
 
 <h1 align="center">Awesome YARA</h1>
 
-A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,897 | 🐛 22 | 🌐 Python | 📅 2026-10-02 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,723 | 🐛 94 | 📅 2026-09-27.
+A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,141 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,726 | 🐛 94 | 📅 2026-09-27.
 
 > YARA is an ancronym for: YARA: Another Recursive Ancronym, or Yet Another Ridiculous Acronym. Pick your choice.
 >
 > \-- *[Victor M. Alvarez (@plusvic)](https://twitter.com/plusvic/status/778983467627479040)*
 
-[YARA](https://virustotal.github.io/yara/), the "pattern matching swiss knife for malware researchers (and everyone else)" is developed by [@plusvic](https://github.com/plusvic/) and [@VirusTotal](https://github.com/VirusTotal). View it on [GitHub](https://github.com/virustotal/yara) ⭐ 9,908 | 🐛 168 | 🌐 C | 📅 2026-09-23.
+[YARA](https://virustotal.github.io/yara/), the "pattern matching swiss knife for malware researchers (and everyone else)" is developed by [@plusvic](https://github.com/plusvic/) and [@VirusTotal](https://github.com/VirusTotal). View it on [GitHub](https://github.com/virustotal/yara) ⭐ 9,909 | 🐛 168 | 🌐 C | 📅 2026-09-23.
 
 ### Contents
 
@@ -44,13 +44,13 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 ## Guides
 
 * [Yara Performance Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines) ⭐ 175 | 🐛 0 | 📅 2025-02-11
-* [YARA-Style-Guide](https://github.com/Neo23x0/YARA-Style-Guide) ⭐ 80 | 🐛 2 | 📅 2024-02-17
+* [YARA-Style-Guide](https://github.com/Neo23x0/YARA-Style-Guide) ⭐ 81 | 🐛 2 | 📅 2024-02-17
 
 ## Rules
 
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) ⭐ 4,907 | 🐛 29 | 🌐 YARA | 📅 2024-04-17 :eyes:
   * Large collection of rules constantly updated by the community.
-* [CAPE Rules](https://github.com/kevoreilly/CAPEv2/tree/master/data/yara) ⭐ 3,547 | 🐛 78 | 🌐 Python | 📅 2026-10-03 :eyes:
+* [CAPE Rules](https://github.com/kevoreilly/CAPEv2/tree/master/data/yara) ⭐ 3,549 | 🐛 78 | 🌐 Python | 📅 2026-10-03 :eyes:
   * Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension (see next section).
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) ⭐ 3,040 | 🐛 18 | 🌐 YARA | 📅 2026-09-08 :eyes: :gem:
   * Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false positives / negatives.
@@ -64,9 +64,9 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
   * Elastic Security provides signature-based YARA rules within the Elastic Endpoint product. These rules are used to detect and prevent emerging threats within Linux, Windows, and macOS systems. Our repository holds over 1,000 YARA rules that are used every day to stop a wide range of threats including: Trojans, ransomware, cryptominers, attack penetration frameworks, and more.
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) ⭐ 1,457 | 🐛 43 | 🌐 Python | 📅 2023-12-12
   * A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
-* [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 945 | 🐛 3 | 🌐 YARA | 📅 2025-11-03 :sparkles: :eyes:
+* [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 946 | 🐛 3 | 🌐 YARA | 📅 2025-11-03 :sparkles: :eyes:
   * A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomware, trojans, and viruses.
-* [McAfee Advanced Threat Research Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 629 | 🐛 0 | 🌐 YARA | 📅 2025-03-18
+* [McAfee Advanced Threat Research Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 630 | 🐛 0 | 🌐 YARA | 📅 2025-03-18
   * Repository of YARA rules made by McAfee ATR Teams.
 * [Google Cloud Threat Intelligence(GCTI) Rules](https://github.com/chronicle/GCTI) ⚠️ Archived
   * Rules to detect CobaltStrike framework and Sliver implant.
@@ -92,7 +92,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
   * A set of interrelated network and host detection rules with the aim of improving detection and hunting visibility and context.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara) ⭐ 256 | 🐛 1 | 🌐 Ruby | 📅 2016-07-29
   * Repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
-* [HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) ⭐ 248 | 🐛 1 | 🌐 YARA | 📅 2026-10-03 :trophy:
+* [HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) ⭐ 248 | 🐛 2 | 🌐 YARA | 📅 2026-10-04 :trophy:
   * World's largest open source YARA collection with no duplicates, no invalid ones and only few files. Also it contains ClamAV + YARA-X or YARA + Machine Learning + IDS canner and signatures and SUBLIME + CAPA + SIGMA signatures. Finally it has so big malware collection.
 * [t4d's PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules) ⭐ 241 | 🐛 0 | 🌐 YARA | 📅 2026-10-03
   * This repository, dedicated to Phishing Kits zip files YARA rules, is based on zip raw format analysis to find directories and files names, you don't need yara-extend there.
@@ -158,9 +158,9 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     * Detection Rule List.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) ⭐ 22 | 🐛 0 | 🌐 YARA | 📅 2025-09-09 :gem:
   * Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
-* [Filescan.io Rules](https://github.com/filescanio/fsYara) ⭐ 21 | 🐛 0 | 🌐 YARA | 📅 2026-09-27 ✨
+* [Filescan.io Rules](https://github.com/filescanio/fsYara) ⭐ 21 | 🐛 0 | 🌐 YARA | 📅 2026-10-04 ✨
   * A collection of curated YARA rules used as part of the Filescan.io service.
-* [CyStack Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-03 :sparkles:
+* [CyStack Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-04 :sparkles:
   * YARA rules and field-signature fingerprints for 30+ infostealer log families including RedLine, Vidar, Lumma and StealC. Each family folder contains a rules.yar, a sanitized sample, and fingerprint metadata (banner strings, field keys).
 * [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules) ⭐ 20 | 🐛 0 | 🌐 YARA | 📅 2021-11-26
   * A small repository which contains some browser based rules.
@@ -197,13 +197,13 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 ## Tools
 
-* [MISP Threat Sharing](https://github.com/MISP/MISP) ⭐ 6,566 | 🐛 2,945 | 🌐 PHP | 📅 2026-10-03
+* [MISP Threat Sharing](https://github.com/MISP/MISP) ⭐ 6,567 | 🐛 2,945 | 🌐 PHP | 📅 2026-10-03
   * Threat intelligence platform including indicators, threat intelligence, malware samples and binaries. Includes support for sharing, generating, and validating YARA signatures.
-* [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) ⭐ 3,547 | 🐛 78 | 🌐 Python | 📅 2026-10-03 :eyes:
+* [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) ⭐ 3,549 | 🐛 78 | 🌐 Python | 📅 2026-10-03 :eyes:
   * Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
-* [APKiD](https://github.com/rednaga/APKiD) ⭐ 2,587 | 🐛 84 | 🌐 YARA | 📅 2026-09-02
+* [APKiD](https://github.com/rednaga/APKiD) ⭐ 2,590 | 🐛 84 | 🌐 YARA | 📅 2026-09-02
   * Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
-* [Yeti](https://github.com/yeti-platform/yeti) ⭐ 2,034 | 🐛 69 | 🌐 Python | 📅 2026-10-02
+* [Yeti](https://github.com/yeti-platform/yeti) ⭐ 2,034 | 🐛 60 | 🌐 Python | 📅 2026-10-04
   * Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,815 | 🐛 14 | 🌐 Python | 📅 2026-01-10
   * YARA rule generator for finding related samples and hunting.
@@ -222,7 +222,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [Laika BOSS](https://github.com/lmco/laikaboss) ⭐ 754 | 🐛 26 | 🌐 Python | 📅 2024-12-16
   * [Whitepaper](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf) ⭐ 754 | 🐛 26 | 🌐 Python | 📅 2024-12-16
   * Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
-* [bincapz](https://github.com/chainguard-dev/bincapz) ⭐ 678 | 🐛 6 | 🌐 YARA | 📅 2026-10-03
+* [bincapz](https://github.com/chainguard-dev/bincapz) ⭐ 678 | 🐛 7 | 🌐 YARA | 📅 2026-10-04
   * Enumerates program capabilities and malicious behaviors using fragment analysis..
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner) ⭐ 619 | 🐛 39 | 🌐 Python | 📅 2019-10-08
   * File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
@@ -322,7 +322,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
   * Scans files with YARA rules and send email alerts which include network context of the file transfer and attaches the suspicious file if it is less than 10 MB.
 * [FARA](https://github.com/bartblaze/FARA) ⭐ 61 | 🐛 0 | 🌐 YARA | 📅 2025-07-23
   * FARA, or Faux YARA, is a simple repository that contains a set of purposefully erroneous Yara rules. It is meant as a training vehicle for new security analysts, those that are new to Yara and even Yara veterans that want to keep their rule writing (and debugging) sharp.
-* [libyara.NET](https://github.com/microsoft/libyara.NET) ⭐ 60 | 🐛 6 | 🌐 C++ | 📅 2026-01-08
+* [libyara.NET](https://github.com/microsoft/libyara.NET) ⭐ 61 | 🐛 6 | 🌐 C++ | 📅 2026-01-08
   * .NET wrapper for libyara built in C++ CLI used to easily incorporate yara into .NET projects
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2024-12-19
   * ICAP server with YARA scanner.
@@ -509,23 +509,23 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 
 ## Related Awesome Lists
 
-* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,776 | 🐛 43 | 📅 2026-07-26
-* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,884 | 🐛 2 | 📅 2026-09-09
-* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,333 | 🐛 134 | 📅 2026-07-25
-* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,190 | 🐛 74 | 📅 2024-06-02
-* [Security](https://github.com/sbilly/awesome-security) ⭐ 14,931 | 🐛 350 | 📅 2026-01-11
-* [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,821 | 🐛 2 | 🌐 Rust | 📅 2026-10-02
-* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,240 | 🐛 25 | 📅 2024-06-07
-* [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,696 | 🐛 143 | 📅 2026-05-31
-* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,580 | 🐛 30 | 🌐 Python | 📅 2026-06-01
-* [ML for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,436 | 🐛 31 | 📅 2024-08-19
-* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,430 | 🐛 88 | 📅 2026-07-15
-* [Crawler](https://github.com/BruceDone/awesome-crawler) ⭐ 7,322 | 🐛 41 | 📅 2024-06-16
+* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,844 | 🐛 43 | 📅 2026-07-26
+* [OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,904 | 🐛 1 | 📅 2026-10-04
+* [Pentesting](https://github.com/enaqx/awesome-pentest) ⭐ 27,337 | 🐛 133 | 📅 2026-07-25
+* [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,193 | 🐛 74 | 📅 2024-06-02
+* [Security](https://github.com/sbilly/awesome-security) ⭐ 14,939 | 🐛 349 | 📅 2026-01-11
+* [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,822 | 🐛 2 | 🌐 Rust | 📅 2026-10-02
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,245 | 🐛 25 | 📅 2024-06-07
+* [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,698 | 🐛 143 | 📅 2026-05-31
+* [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,582 | 🐛 30 | 🌐 Python | 📅 2026-06-01
+* [ML for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,437 | 🐛 31 | 📅 2024-08-19
+* [Incident-Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,433 | 🐛 88 | 📅 2026-07-15
+* [Crawler](https://github.com/BruceDone/awesome-crawler) ⭐ 7,323 | 🐛 40 | 📅 2024-06-16
 * [Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,755 | 🐛 19 | 📅 2026-08-28
-* [Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,210 | 🐛 5 | 📅 2026-09-26
+* [Forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,211 | 🐛 6 | 📅 2026-09-26
 * [Threat Detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,737 | 🐛 60 | 📅 2026-01-05
-* [Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,524 | 🐛 18 | 📅 2023-08-19
-* [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) ⭐ 3,532 | 🐛 2 | 📅 2022-01-04
+* [Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,525 | 🐛 18 | 📅 2023-08-19
+* [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) ⭐ 3,533 | 🐛 2 | 📅 2022-01-04
 * [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,428 | 🐛 15 | 📅 2025-09-03
 * [IOCs](https://github.com/sroberts/awesome-iocs) ⭐ 1,009 | 🐛 7 | 🌐 Shell | 📅 2026-10-01
 
@@ -538,8 +538,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Contributors
 
-[![awesome-yara contributors](https://contrib.rocks/image?repo=inquest/awesome-yara\&max=100)](https://github.com/inquest/awesome-yara/graphs/contributors) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15
+[![awesome-yara contributors](https://contrib.rocks/image?repo=inquest/awesome-yara\&max=100)](https://github.com/inquest/awesome-yara/graphs/contributors) ⭐ 4,283 | 🐛 1 | 📅 2026-06-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
