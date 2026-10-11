@@ -84,8 +84,8 @@
             "id": 215366713,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T17:50:12Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-11T15:11:12Z",
+            "open_issues": 99,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
             "stars": 3558,
@@ -325,7 +325,7 @@
             "open_issues": 1,
             "owner": "chronicle",
             "repo": "GCTI",
-            "stars": 554,
+            "stars": 553,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -612,11 +612,11 @@
             "id": 804319384,
             "language": "YARA",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-10T18:15:29Z",
+            "last_commit": "2026-10-11T18:24:21Z",
             "open_issues": 0,
             "owner": "HydraDragonAntivirus",
             "repo": "HydraDragonAntivirus",
-            "stars": 249,
+            "stars": 248,
             "topics": [
               "antimalware",
               "antivirus",
@@ -762,7 +762,7 @@
             "open_issues": 1,
             "owner": "malpedia",
             "repo": "signator-rules",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -1363,7 +1363,7 @@
             "id": 1231682626,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T16:30:30Z",
+            "last_commit": "2026-10-10T19:20:50Z",
             "open_issues": 0,
             "owner": "cystack",
             "repo": "stealer-fingerprints",
@@ -1423,7 +1423,7 @@
             "id": 641880877,
             "language": "YARA",
             "license": null,
-            "last_commit": "2026-10-05T16:44:43Z",
+            "last_commit": "2026-10-11T16:30:36Z",
             "open_issues": 0,
             "owner": "filescanio",
             "repo": "fsYara",
@@ -1646,11 +1646,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T15:33:01Z",
+            "last_commit": "2026-10-11T09:11:26Z",
             "open_issues": 2947,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6589,
+            "stars": 6590,
             "topics": [
               "cti",
               "cybersecurity",
@@ -1688,8 +1688,8 @@
             "id": 215366713,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T17:50:12Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-11T15:11:12Z",
+            "open_issues": 99,
             "owner": "kevoreilly",
             "repo": "CAPEv2",
             "stars": 3558,
@@ -1723,7 +1723,7 @@
             "open_issues": 88,
             "owner": "rednaga",
             "repo": "APKiD",
-            "stars": 2594,
+            "stars": 2596,
             "topics": [
               "android",
               "android-protect-apps",
@@ -1756,10 +1756,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T13:15:19Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "yeti-platform",
             "repo": "yeti",
-            "stars": 2035,
+            "stars": 2036,
             "topics": [
               "dfir",
               "enrichment",
@@ -1898,7 +1898,7 @@
             "open_issues": 21,
             "owner": "kevthehermit",
             "repo": "PasteHunter",
-            "stars": 1142,
+            "stars": 1143,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -1915,7 +1915,7 @@
             "id": 149654117,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T18:32:33Z",
+            "last_commit": "2026-10-10T18:33:36Z",
             "open_issues": 18,
             "owner": "target",
             "repo": "strelka",
@@ -2027,8 +2027,8 @@
             "id": 753881685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T00:37:53Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-11T12:11:52Z",
+            "open_issues": 8,
             "owner": "chainguard-dev",
             "repo": "malcontent",
             "stars": 678,
@@ -3131,32 +3131,6 @@
         },
         {
           "node_type": "item",
-          "title": "factual-rules-generator",
-          "description": "CIRCL/factual-rules-generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a machine.",
-            "homepage": "https://circl.github.io/factual-rules-generator/",
-            "id": 366386288,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2022-01-18T10:05:51Z",
-            "open_issues": 1,
-            "owner": "CIRCL",
-            "repo": "factual-rules-generator",
-            "stars": 75,
-            "topics": [
-              "computer-forensics",
-              "dfir",
-              "yara",
-              "yara-rules"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:22.235Z"
-        },
-        {
-          "node_type": "item",
           "title": "YLS",
           "description": "avast/yls",
           "children": [],
@@ -3178,6 +3152,32 @@
               "python3",
               "vscode",
               "yara"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:22.235Z"
+        },
+        {
+          "node_type": "item",
+          "title": "factual-rules-generator",
+          "description": "CIRCL/factual-rules-generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a machine.",
+            "homepage": "https://circl.github.io/factual-rules-generator/",
+            "id": 366386288,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2022-01-18T10:05:51Z",
+            "open_issues": 1,
+            "owner": "CIRCL",
+            "repo": "factual-rules-generator",
+            "stars": 74,
+            "topics": [
+              "computer-forensics",
+              "dfir",
+              "yara",
+              "yara-rules"
             ]
           },
           "first_seen": "2026-08-28T23:31:22.235Z"
@@ -4274,8 +4274,8 @@
             "id": 1181745997,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T09:33:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T23:23:13Z",
+            "open_issues": 3,
             "owner": "anpa1200",
             "repo": "AIDebug",
             "stars": 13,
@@ -4337,7 +4337,7 @@
             "id": 217628673,
             "language": "YARA",
             "license": "MIT",
-            "last_commit": "2026-10-05T18:56:38Z",
+            "last_commit": "2026-10-10T22:58:44Z",
             "open_issues": 0,
             "owner": "horsicq",
             "repo": "YARA-sort",
@@ -4815,7 +4815,7 @@
             "language": "XML",
             "license": null,
             "last_commit": "2026-09-26T17:34:30Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "notepad-plus-plus",
             "repo": "userDefinedLanguages",
             "stars": 824,
@@ -4984,7 +4984,7 @@
             "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 122084,
+            "stars": 122197,
             "topics": [
               "android",
               "awesome",
@@ -5011,11 +5011,11 @@
             "id": 75189212,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T13:03:44Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-11T10:59:20Z",
+            "open_issues": 1,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 30128,
+            "stars": 30154,
             "topics": [
               "awesome-list",
               "osint",
@@ -5037,10 +5037,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T12:15:45Z",
-            "open_issues": 137,
+            "open_issues": 139,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27390,
+            "stars": 27398,
             "topics": [
               "awesome",
               "awesome-list"
@@ -5061,10 +5061,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17236,
+            "stars": 17241,
             "topics": [
               "awesome",
               "hacking"
@@ -5088,7 +5088,7 @@
             "open_issues": 351,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14965,
+            "stars": 14970,
             "topics": [
               "awesome-list",
               "security"
@@ -5112,7 +5112,7 @@
             "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14831,
+            "stars": 14830,
             "topics": [
               "analysis",
               "awesome-list",
@@ -5143,7 +5143,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14267,
+            "stars": 14268,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -5181,10 +5181,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10723,
+            "stars": 10725,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5237,7 +5237,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9453,
+            "stars": 9469,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -5293,7 +5293,7 @@
             "open_issues": 39,
             "owner": "BruceDone",
             "repo": "awesome-crawler",
-            "stars": 7327,
+            "stars": 7328,
             "topics": [
               "awesome",
               "crawler",
@@ -5349,10 +5349,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-26T21:45:30Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5211,
+            "stars": 5212,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -5476,7 +5476,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 1011,
+            "stars": 1014,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5503,7 +5503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:29:21.277Z",
+    "last_updated": "2026-10-11T18:48:13.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome YARA rules, tools, and people.",
